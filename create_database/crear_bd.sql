@@ -82,6 +82,12 @@ CREATE TABLE empleados(
 );
 GO
 
+ALTER TABLE empleados
+ADD sucursal_id INT;
+
+ALTER TABLE empleados
+ADD CONSTRAINT FK_sucursal_empleados FOREIGN KEY (sucursal_id) REFERENCES sucursales (id);
+
 -- Préstamos
 CREATE TABLE prestamos(
 	id INT PRIMARY KEY IDENTITY(1,1),
@@ -105,6 +111,9 @@ CREATE TABLE prestamos(
 	CONSTRAINT FK_empleados_prestamos FOREIGN KEY (empleado_id) REFERENCES empleados(id),
 	CONSTRAINT FK_tipo_prestamo_prestamos FOREIGN KEY (tipo_prestamo_id) REFERENCES tipos_prestamos(id)
 );
+
+ALTER TABLE prestamos
+ALTER COLUMN fecha_vencimiento DATETIME NULL;
 
 -- Cuotas
 CREATE TABLE cuotas(
