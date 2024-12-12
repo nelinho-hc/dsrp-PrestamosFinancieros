@@ -1,3 +1,6 @@
+USE dsrp_prestamos_financieros_6;
+GO
+
 -- A. Igualdad simple (=)
 
 -- Seleccionar el DNI, nombre completo y DNI de todas las personas naturales que se llaman David
@@ -273,3 +276,26 @@ SELECT
 	p.fecha_inicio
 FROM prestamos p
 CROSS JOIN clientes c;
+
+-- Seleccionar la lista de empleados (nombre completo, dni, dirección, cod_empleado, cargo,
+-- nombre completo del supervisor y sucursal al que pertenece) con sus supervisores
+
+SELECT * FROM clientes;
+SELECT * FROM prestamos;
+SELECT * FROM empleados;
+
+SELECT
+	e.id AS 'empleado_id',
+	CONCAT(p.nombres, ' ', p.apellido_paterno, ' ', p.apellido_materno) AS 'Nombre_Completo',
+	p.numero_documento AS 'DNI',
+	p.direccion,
+	e.codigo_empleado,
+	e.cargo,
+	s.id AS 'supervisor_id',
+	CONCAT(p2.nombres, ' ', p2.apellido_paterno, ' ', p2.apellido_materno) AS 'Supervisor',
+	sc.nombres AS 'Sucursal'
+FROM empleados e
+INNER JOIN personas_naturales p ON e.persona_id = p.id
+INNER JOIN empleados s ON s.id = e.supervisor_id
+INNER JOIN personas_naturales p2 ON p2.id = s.persona_id
+INNER JOIN sucursales sc ON sc.id = e.sucursal_id;

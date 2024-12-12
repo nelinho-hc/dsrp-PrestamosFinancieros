@@ -122,7 +122,7 @@ CREATE TABLE cuotas(
 	numero_cuota INT NOT NULL,
 	monto MONEY NOT NULL,
 	fecha_vencimiento DATE NOT NULL,
-	estado VARCHAR NOT NULL,
+	estado VARCHAR(50) NOT NULL,
 	monto_pendiente MONEY NOT NULL,
 	CONSTRAINT FK_prestamo_cuotas FOREIGN KEY (prestamo_id) REFERENCES prestamos(id)
 );
