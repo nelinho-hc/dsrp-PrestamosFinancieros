@@ -119,3 +119,211 @@ SET fecha_vencimiento = DATEADD(MONTH, plazo, fecha_inicio),
 	updated_at = GETDATE(),
 	updated_by = '1';
 
+-- CONSULTAS INTERMEDIAS
+
+-- 1. Lista los préstamos activos, mostrando el cliente, el tipo de préstamo, y el monto otorgado.
+
+SELECT * FROM prestamos;
+
+SELECT
+	CONCAT(pt.nombres, ' ', pt.apellido_paterno, ' ', pt.apellido_materno) AS 'Clientes',
+	tp.nombre AS 'Tipo Préstamo',
+	p.monto_otorgado AS 'Monto Otorgado'
+FROM prestamos p
+	INNER JOIN tipos_prestamos tp ON tp.id = p.tipo_prestamo_id
+	INNER JOIN clientes c ON c.id = p.cliente_id
+	INNER JOIN personas_naturales pt ON pt.id = c.persona_id AND c.tipo_persona = 'Persona Natural'
+WHERE p.fecha_vencimiento > GETDATE();
+
+-- 2.Encuentra todas las cuotas pendientes, incluyendo el nombre del cliente y el código del préstamo.
+
+SELECT * FROM cuotas;
+
+SELECT
+	CASE
+		WHEN c.tipo_persona = 'Persona Natural' THEN CONCAT(pt.nombres, ' ', pt.apellido_paterno, ' ', pt.apellido_materno)
+		WHEN c.tipo_persona = 'Persona Jurídica' THEN pj.razon_social
+		ELSE 'Desconocido'
+	END AS 'Clientes',
+	p.id AS 'ID Préstamo',
+	p.monto_otorgado AS 'Monto Otorgado',
+	ct.numero_cuota AS 'Número de cuota',
+	ct.monto_pendiente AS 'Monto Pendiente',
+	ct.fecha_vencimiento AS 'Fecha de Vencimiento'
+FROM prestamos p
+	INNER JOIN tipos_prestamos tp ON tp.id = p.tipo_prestamo_id
+	INNER JOIN clientes c ON c.id = p.cliente_id
+	INNER JOIN personas_naturales pt ON pt.id = c.persona_id AND c.tipo_persona = 'Persona Natural'
+	INNER JOIN personas_juridicas pj ON pj.id = c.persona_id AND c.tipo_persona = 'Persona Jurídica'
+	INNER JOIN cuotas ct ON ct.prestamo_id = p.id
+WHERE ct.estado = 'Pendiente';
+
+-- 3. Obtén el total abonado por cada cliente en sus pagos.
+
+SELECT
+	CASE
+		WHEN c.tipo_persona = 'Persona Natural' THEN CONCAT(pt.nombres, ' ', pt.apellido_paterno, ' ', pt.apellido_materno)
+		WHEN c.tipo_persona = 'Persona Jurídica' THEN pj.razon_social
+		ELSE 'Desconocido'
+	END AS 'Clientes',
+	SUM(p.monto_otorgado) AS 'Total Abonado'
+FROM prestamos p
+	INNER JOIN clientes c ON c.id = p.cliente_id
+	INNER JOIN personas_naturales pt ON pt.id = c.persona_id AND c.tipo_persona = 'Persona Natural'
+	INNER JOIN personas_juridicas pj ON pj.id = c.persona_id AND c.tipo_persona = 'Persona Jurídica'
+	INNER JOIN cuotas ct ON ct.prestamo_id = p.id
+	INNER JOIN detalle_pagos dp ON dp.cuota_id = ct.id
+	INNER JOIN pagos pg ON pg.id = dp.pago_id
+GROUP BY c.tipo_persona, pt.nombres, pt.apellido_paterno, pt.apellido_materno, pj.razon_social;
+
+-- Solo con el código(id) del cliente
+SELECT * FROM clientes;
+
+SELECT c.id AS 'cliente_id'
+FROM prestamos p
+	INNER JOIN clientes c ON c.id = p.cliente_id
+	INNER JOIN cuotas ct ON ct.prestamo_id = p.id
+	INNER JOIN detalle_pagos dp ON dp.cuota_id = ct.id
+	INNER JOIN pagos pg ON pg.id = dp.pago_id
+GROUP BY c.id;
+
+-- ACTUALIZACIONES Y ELIMINACIONES
+
+-- Actualiza la dirección de una sucursal
+SELECT * FROM sucursales;
+
+UPDATE sucursales
+SET direccion = 'Av. Alfonso Ugarte N° 205'
+WHERE id = 2;
+
+-- Marca como eliminados (llenando deleted_at y deleted_by) todos los préstamos cuyo plazo ya haya vencido
+
+UPDATE prestamos
+SET
+	deleted_at = GETDATE(),
+	deleted_by = 1
+WHERE fecha_vencimiento < GETDATE() AND deleted_at IS NULL;
+
+-- Elimina un cliente y todos los registros asociados (préstamos, cuotas, etc.)
+-- Como tiene un FK, se tienen que eliminar de tabla en tabla
+
+SELECT * FROM prestamos;
+
+-- Eliminando detalles_pagos
+
+DELETE dp
+FROM detalle_pagos dp
+INNER JOIN cuotas ct ON ct.id = dp.cuota_id
+INNER JOIN prestamos p ON p.id = ct.prestamo_id
+WHERE p.cliente_id = 6;
+
+-- Eliminando pagos
+
+DELETE FROM pagos
+WHERE id NOT IN (SELECT pago_id FROM detalle_pagos);
+
+-- Eliminando cuotas
+
+DELETE ct
+FROM cuotas ct
+INNER JOIN prestamos p ON p.id = ct.prestamo_id
+WHERE p.cliente_id = 6;
+
+-- Eliminando préstamos del cliente_id = 6
+
+DELETE FROM prestamos WHERE cliente_id = 6;
+
+-- Eliminar el cliente 6
+
+DELETE FROM clientes WHERE id = 6;
+
+-- ESTADÍSTICAS Y AGREGACIONES
+
+-- Calcula el promedio de los montos otorgados en los préstamos
+
+SELECT AVG(monto_otorgado) AS 'monto_otorgado_promedio'
+FROM prestamos;
+
+-- Determina cuál sucursal ha otorgado el mayor número de préstamos
+
+SELECT sc.nombres, COUNT(p.sucursal_id) AS 'Cantidad_préstamos'
+INTO #t01	-- Tabla temporal
+FROM prestamos p
+INNER JOIN sucursales sc ON sc.id = p.sucursal_id
+GROUP BY sc.nombres
+ORDER BY COUNT(p.sucursal_id) DESC;
+
+SELECT nombres, Cantidad_préstamos FROM #t01
+WHERE Cantidad_préstamos IN (SELECT MAX(Cantidad_préstamos) FROM #t01);
+
+-- Genera un reporte con el total de intereses generados por los préstamos
+
+SELECT * FROM prestamos;
+
+SELECT
+	id AS 'prestamo_id',
+	monto_otorgado,
+	tasa_interes*monto_otorgado AS 'interes_a_generar',
+	CASE
+		WHEN deleted_at IS NOT NULL THEN 'prestamo_vencido'
+		ELSE 'prestamo_activo'
+	END AS 'Estado'
+FROM prestamos;
+
+SELECT SUM(tasa_interes*monto_otorgado) FROM prestamos WHERE deleted_at IS NOT NULL;
+
+-- FUNCIONES
+
+-- Función para Obtener Nombre Completo
+-- Crea una función que reciba los nombres, apellido paterno y materno de una persona y devuelva su nombre completo en el formato
+-- Apellido Paterno Apellido Materno, Nombres.
+
+CREATE FUNCTION FN_NH_RETORNA_NOMBRE_COMPLETO(@nombres VARCHAR(255), @app VARCHAR(255), @apm VARCHAR(255))
+RETURNS VARCHAR(1000) -- Si busco modificar una función ya creada, debo reeemplazar 'CREATE' por 'ALTER'
+AS
+BEGIN
+	DECLARE @nombre_completo VARCHAR(1000);
+	SELECT @nombre_completo = CONCAT(@app, ' ', @apm, ' ', @nombres);
+RETURN @nombre_completo;
+END
+
+-- Invocar la función
+
+SELECT dbo.FN_NH_RETORNA_NOMBRE_COMPLETO('Nelinho', 'Hurtado', 'Calderón')
+
+SELECT
+	CASE
+		WHEN c.tipo_persona = 'Persona Natural' THEN dbo.FN_NH_RETORNA_NOMBRE_COMPLETO(pn.nombres, pn.apellido_paterno, pn.apellido_materno)
+		WHEN c.tipo_persona = 'Persona Jurídica' THEN pj.razon_social
+		ELSE 'desconocido'
+	END AS 'nombre_cliente',
+	tp.nombre AS 'tipo_prestamo',
+	p.monto_otorgado
+FROM prestamos p
+INNER JOIN tipos_prestamos tp ON tp.id = p.tipo_prestamo_id
+INNER JOIN clientes c ON c.id = p.cliente_id
+LEFT JOIN personas_naturales pn ON pn.id = c.persona_id AND c.tipo_persona = 'Persona Natural'
+LEFT JOIN personas_juridicas pj ON pj.id = c.persona_id AND c.tipo_persona = 'Persona Jurídica'
+WHERE p.fecha_vencimiento > GETDATE();
+
+-- PROCEDIMIENTOS ALMACENADOS
+
+-- Crea un procedimiento almacenado que registre automáticamente un pago y actualice las cuotas afectadas
+--Diseña un procedimiento para generar un reporte con los préstamos activos de una sucursal específica
+
+CREATE PROCEDURE SP_NH_PRESTAMOS_ACTIVOS_SUCURSAL
+	@id_sucursal INT	-- Si busco modificar un procedimiento ya creado, debo reeemplazar 'CREATE' por 'ALTER'
+AS
+	SET NOCOUNT ON; -- Evita el desbordamiento de pila
+	SELECT
+		id AS 'prestamo_id',
+		monto_otorgado,
+		plazo,
+		tasa_interes,
+		fecha_inicio,
+		fecha_vencimiento
+	FROM prestamos
+	WHERE sucursal_id = @id_sucursal AND deleted_at IS NULL;
+GO
+
+EXEC SP_NH_PRESTAMOS_ACTIVOS_SUCURSAL 1

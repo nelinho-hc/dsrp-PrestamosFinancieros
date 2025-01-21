@@ -1,0 +1,2108 @@
+ID Préstamo|Tipo Cliente|Cliente|numero_cuota|monto_pendiente|fecha_vencimiento
+116|Persona Natural|Alberto Sánchez Lozano|1|3021.9629|2024-09-25
+116|Persona Natural|Alberto Sánchez Lozano|2|3021.9629|2024-10-25
+116|Persona Natural|Alberto Sánchez Lozano|3|3021.9629|2024-11-25
+116|Persona Natural|Alberto Sánchez Lozano|4|3021.9629|2024-12-25
+102|Persona Natural|Alejandro Sánchez Jiménez|1|2896.0139|2024-09-26
+102|Persona Natural|Alejandro Sánchez Jiménez|2|2896.0139|2024-10-26
+102|Persona Natural|Alejandro Sánchez Jiménez|3|2896.0139|2024-11-26
+102|Persona Natural|Alejandro Sánchez Jiménez|4|2896.0139|2024-12-26
+135|Persona Natural|Ana García Fernández|1|1344.5694|2023-07-23
+135|Persona Natural|Ana García Fernández|2|1344.5694|2023-08-23
+135|Persona Natural|Ana García Fernández|3|1344.5694|2023-09-23
+135|Persona Natural|Ana García Fernández|4|1344.5694|2023-10-23
+135|Persona Natural|Ana García Fernández|5|1344.5694|2023-11-23
+135|Persona Natural|Ana García Fernández|6|1344.5694|2023-12-23
+135|Persona Natural|Ana García Fernández|7|1344.5694|2024-01-23
+135|Persona Natural|Ana García Fernández|8|1344.5694|2024-02-23
+135|Persona Natural|Ana García Fernández|9|1344.5694|2024-03-23
+135|Persona Natural|Ana García Fernández|10|1344.5694|2024-04-23
+135|Persona Natural|Ana García Fernández|11|1344.5694|2024-05-23
+135|Persona Natural|Ana García Fernández|12|1344.5694|2024-06-23
+135|Persona Natural|Ana García Fernández|13|1344.5694|2024-07-23
+135|Persona Natural|Ana García Fernández|14|1344.5694|2024-08-23
+135|Persona Natural|Ana García Fernández|15|1344.5694|2024-09-23
+135|Persona Natural|Ana García Fernández|16|1344.5694|2024-10-23
+135|Persona Natural|Ana García Fernández|17|1344.5694|2024-11-23
+135|Persona Natural|Ana García Fernández|18|1344.5694|2024-12-23
+82|Persona Natural|Antonio Hernández Vega|1|5849.3275|2024-02-24
+82|Persona Natural|Antonio Hernández Vega|2|5849.3275|2024-03-24
+82|Persona Natural|Antonio Hernández Vega|3|5849.3275|2024-04-24
+82|Persona Natural|Antonio Hernández Vega|4|5849.3275|2024-05-24
+82|Persona Natural|Antonio Hernández Vega|5|5849.3275|2024-06-24
+82|Persona Natural|Antonio Hernández Vega|6|5849.3275|2024-07-24
+82|Persona Natural|Antonio Hernández Vega|7|5849.3275|2024-08-24
+82|Persona Natural|Antonio Hernández Vega|8|5849.3275|2024-09-24
+82|Persona Natural|Antonio Hernández Vega|9|5849.3275|2024-10-24
+82|Persona Natural|Antonio Hernández Vega|10|5849.3275|2024-11-24
+82|Persona Natural|Antonio Hernández Vega|11|5849.3275|2024-12-24
+94|Persona Jurídica|Beta Corp.|1|3051.573|2022-12-10
+94|Persona Jurídica|Beta Corp.|2|3051.573|2023-01-10
+94|Persona Jurídica|Beta Corp.|3|3051.573|2023-02-10
+94|Persona Jurídica|Beta Corp.|4|3051.573|2023-03-10
+94|Persona Jurídica|Beta Corp.|5|3051.573|2023-04-10
+94|Persona Jurídica|Beta Corp.|6|3051.573|2023-05-10
+94|Persona Jurídica|Beta Corp.|7|3051.573|2023-06-10
+94|Persona Jurídica|Beta Corp.|8|3051.573|2023-07-10
+94|Persona Jurídica|Beta Corp.|9|3051.573|2023-08-10
+94|Persona Jurídica|Beta Corp.|10|3051.573|2023-09-10
+94|Persona Jurídica|Beta Corp.|11|3051.573|2023-10-10
+94|Persona Jurídica|Beta Corp.|12|3051.573|2023-11-10
+94|Persona Jurídica|Beta Corp.|13|3051.573|2023-12-10
+94|Persona Jurídica|Beta Corp.|14|3051.573|2024-01-10
+94|Persona Jurídica|Beta Corp.|15|3051.573|2024-02-10
+94|Persona Jurídica|Beta Corp.|16|3051.573|2024-03-10
+94|Persona Jurídica|Beta Corp.|17|3051.573|2024-04-10
+94|Persona Jurídica|Beta Corp.|18|3051.573|2024-05-10
+94|Persona Jurídica|Beta Corp.|19|3051.573|2024-06-10
+94|Persona Jurídica|Beta Corp.|20|3051.573|2024-07-10
+94|Persona Jurídica|Beta Corp.|21|3051.573|2024-08-10
+94|Persona Jurídica|Beta Corp.|22|3051.573|2024-09-10
+94|Persona Jurídica|Beta Corp.|23|3051.573|2024-10-10
+94|Persona Jurídica|Beta Corp.|24|3051.573|2024-11-10
+94|Persona Jurídica|Beta Corp.|25|3051.573|2024-12-10
+99|Persona Jurídica|Beta Corp.|1|3610.0093|2023-01-19
+99|Persona Jurídica|Beta Corp.|2|3610.0093|2023-02-19
+99|Persona Jurídica|Beta Corp.|3|3610.0093|2023-03-19
+99|Persona Jurídica|Beta Corp.|4|3610.0093|2023-04-19
+99|Persona Jurídica|Beta Corp.|5|3610.0093|2023-05-19
+99|Persona Jurídica|Beta Corp.|6|3610.0093|2023-06-19
+99|Persona Jurídica|Beta Corp.|7|3610.0093|2023-07-19
+99|Persona Jurídica|Beta Corp.|8|3610.0093|2023-08-19
+99|Persona Jurídica|Beta Corp.|9|3610.0093|2023-09-19
+99|Persona Jurídica|Beta Corp.|10|3610.0093|2023-10-19
+99|Persona Jurídica|Beta Corp.|11|3610.0093|2023-11-19
+99|Persona Jurídica|Beta Corp.|12|3610.0093|2023-12-19
+99|Persona Jurídica|Beta Corp.|13|3610.0093|2024-01-19
+99|Persona Jurídica|Beta Corp.|14|3610.0093|2024-02-19
+99|Persona Jurídica|Beta Corp.|15|3610.0093|2024-03-19
+99|Persona Jurídica|Beta Corp.|16|3610.0093|2024-04-19
+99|Persona Jurídica|Beta Corp.|17|3610.0093|2024-05-19
+99|Persona Jurídica|Beta Corp.|18|3610.0093|2024-06-19
+99|Persona Jurídica|Beta Corp.|19|3610.0093|2024-07-19
+99|Persona Jurídica|Beta Corp.|20|3610.0093|2024-08-19
+99|Persona Jurídica|Beta Corp.|21|3610.0093|2024-09-19
+99|Persona Jurídica|Beta Corp.|22|3610.0093|2024-10-19
+99|Persona Jurídica|Beta Corp.|23|3610.0093|2024-11-19
+99|Persona Jurídica|Beta Corp.|24|3610.0093|2024-12-19
+73|Persona Jurídica|Beta Tech|1|2244.7531|2024-08-29
+73|Persona Jurídica|Beta Tech|2|2244.7531|2024-09-29
+73|Persona Jurídica|Beta Tech|3|2244.7531|2024-10-29
+73|Persona Jurídica|Beta Tech|4|2244.7531|2024-11-29
+73|Persona Jurídica|Beta Tech|5|2244.7531|2024-12-29
+97|Persona Jurídica|Beta Tech|1|4337.6331|2023-03-21
+97|Persona Jurídica|Beta Tech|2|4337.6331|2023-04-21
+97|Persona Jurídica|Beta Tech|3|4337.6331|2023-05-21
+97|Persona Jurídica|Beta Tech|4|4337.6331|2023-06-21
+97|Persona Jurídica|Beta Tech|5|4337.6331|2023-07-21
+97|Persona Jurídica|Beta Tech|6|4337.6331|2023-08-21
+97|Persona Jurídica|Beta Tech|7|4337.6331|2023-09-21
+97|Persona Jurídica|Beta Tech|8|4337.6331|2023-10-21
+97|Persona Jurídica|Beta Tech|9|4337.6331|2023-11-21
+97|Persona Jurídica|Beta Tech|10|4337.6331|2023-12-21
+97|Persona Jurídica|Beta Tech|11|4337.6331|2024-01-21
+97|Persona Jurídica|Beta Tech|12|4337.6331|2024-02-21
+97|Persona Jurídica|Beta Tech|13|4337.6331|2024-03-21
+97|Persona Jurídica|Beta Tech|14|4337.6331|2024-04-21
+97|Persona Jurídica|Beta Tech|15|4337.6331|2024-05-21
+97|Persona Jurídica|Beta Tech|16|4337.6331|2024-06-21
+97|Persona Jurídica|Beta Tech|17|4337.6331|2024-07-21
+97|Persona Jurídica|Beta Tech|18|4337.6331|2024-08-21
+97|Persona Jurídica|Beta Tech|19|4337.6331|2024-09-21
+97|Persona Jurídica|Beta Tech|20|4337.6331|2024-10-21
+97|Persona Jurídica|Beta Tech|21|4337.6331|2024-11-21
+97|Persona Jurídica|Beta Tech|22|4337.6331|2024-12-21
+120|Persona Natural|Carlos Hernández Gómez|1|3457.2697|2023-12-13
+120|Persona Natural|Carlos Hernández Gómez|2|3457.2697|2024-01-13
+120|Persona Natural|Carlos Hernández Gómez|3|3457.2697|2024-02-13
+120|Persona Natural|Carlos Hernández Gómez|4|3457.2697|2024-03-13
+120|Persona Natural|Carlos Hernández Gómez|5|3457.2697|2024-04-13
+120|Persona Natural|Carlos Hernández Gómez|6|3457.2697|2024-05-13
+120|Persona Natural|Carlos Hernández Gómez|7|3457.2697|2024-06-13
+120|Persona Natural|Carlos Hernández Gómez|8|3457.2697|2024-07-13
+120|Persona Natural|Carlos Hernández Gómez|9|3457.2697|2024-08-13
+120|Persona Natural|Carlos Hernández Gómez|10|3457.2697|2024-09-13
+120|Persona Natural|Carlos Hernández Gómez|11|3457.2697|2024-10-13
+120|Persona Natural|Carlos Hernández Gómez|12|3457.2697|2024-11-13
+120|Persona Natural|Carlos Hernández Gómez|13|3457.2697|2024-12-13
+74|Persona Jurídica|Chi Industrial|1|1928.6377|2023-08-03
+74|Persona Jurídica|Chi Industrial|2|1928.6377|2023-09-03
+74|Persona Jurídica|Chi Industrial|3|1928.6377|2023-10-03
+74|Persona Jurídica|Chi Industrial|4|1928.6377|2023-11-03
+74|Persona Jurídica|Chi Industrial|5|1928.6377|2023-12-03
+74|Persona Jurídica|Chi Industrial|6|1928.6377|2024-01-03
+74|Persona Jurídica|Chi Industrial|7|1928.6377|2024-02-03
+74|Persona Jurídica|Chi Industrial|8|1928.6377|2024-03-03
+74|Persona Jurídica|Chi Industrial|9|1928.6377|2024-04-03
+74|Persona Jurídica|Chi Industrial|10|1928.6377|2024-05-03
+74|Persona Jurídica|Chi Industrial|11|1928.6377|2024-06-03
+74|Persona Jurídica|Chi Industrial|12|1928.6377|2024-07-03
+74|Persona Jurídica|Chi Industrial|13|1928.6377|2024-08-03
+112|Persona Jurídica|Chi Industrial|1|1574.6739|2023-05-19
+112|Persona Jurídica|Chi Industrial|2|1574.6739|2023-06-19
+112|Persona Jurídica|Chi Industrial|3|1574.6739|2023-07-19
+112|Persona Jurídica|Chi Industrial|4|1574.6739|2023-08-19
+112|Persona Jurídica|Chi Industrial|5|1574.6739|2023-09-19
+112|Persona Jurídica|Chi Industrial|6|1574.6739|2023-10-19
+112|Persona Jurídica|Chi Industrial|7|1574.6739|2023-11-19
+112|Persona Jurídica|Chi Industrial|8|1574.6739|2023-12-19
+112|Persona Jurídica|Chi Industrial|9|1574.6739|2024-01-19
+112|Persona Jurídica|Chi Industrial|10|1574.6739|2024-02-19
+112|Persona Jurídica|Chi Industrial|11|1574.6739|2024-03-19
+112|Persona Jurídica|Chi Industrial|12|1574.6739|2024-04-19
+112|Persona Jurídica|Chi Industrial|13|1574.6739|2024-05-19
+112|Persona Jurídica|Chi Industrial|14|1574.6739|2024-06-19
+112|Persona Jurídica|Chi Industrial|15|1574.6739|2024-07-19
+63|Persona Natural|Claudia López González|1|563.3513|2024-08-23
+63|Persona Natural|Claudia López González|2|563.3513|2024-09-23
+63|Persona Natural|Claudia López González|3|563.3513|2024-10-23
+63|Persona Natural|Claudia López González|4|563.3513|2024-11-23
+63|Persona Natural|Claudia López González|5|563.3513|2024-12-23
+60|Persona Natural|Claudia Suárez Morales|1|2861.8856|2024-06-02
+60|Persona Natural|Claudia Suárez Morales|2|2861.8856|2024-07-02
+60|Persona Natural|Claudia Suárez Morales|3|2861.8856|2024-08-02
+60|Persona Natural|Claudia Suárez Morales|4|2861.8856|2024-09-02
+60|Persona Natural|Claudia Suárez Morales|5|2861.8856|2024-10-02
+60|Persona Natural|Claudia Suárez Morales|6|2861.8856|2024-11-02
+60|Persona Natural|Claudia Suárez Morales|7|2861.8856|2024-12-02
+60|Persona Natural|Claudia Suárez Morales|8|2861.8856|2025-01-02
+133|Persona Natural|Claudia Suárez Morales|1|10561.1094|2024-12-23
+77|Persona Natural|David Suárez García|1|2511.4537|2024-11-01
+77|Persona Natural|David Suárez García|2|2511.4537|2024-12-01
+77|Persona Natural|David Suárez García|3|2511.4537|2025-01-01
+117|Persona Natural|David Suárez García|1|4623.6302|2024-04-26
+117|Persona Natural|David Suárez García|2|4623.6302|2024-05-26
+117|Persona Natural|David Suárez García|3|4623.6302|2024-06-26
+117|Persona Natural|David Suárez García|4|4623.6302|2024-07-26
+117|Persona Natural|David Suárez García|5|4623.6302|2024-08-26
+117|Persona Natural|David Suárez García|6|4623.6302|2024-09-26
+117|Persona Natural|David Suárez García|7|4623.6302|2024-10-26
+117|Persona Natural|David Suárez García|8|4623.6302|2024-11-26
+117|Persona Natural|David Suárez García|9|4623.6302|2024-12-26
+138|Persona Natural|David Suárez García|1|1515.4681|2024-11-23
+138|Persona Natural|David Suárez García|2|1515.4681|2024-12-23
+78|Persona Jurídica|Delta Asesoría|1|4377.2388|2024-04-23
+78|Persona Jurídica|Delta Asesoría|2|4377.2388|2024-05-23
+78|Persona Jurídica|Delta Asesoría|3|4377.2388|2024-06-23
+78|Persona Jurídica|Delta Asesoría|4|4377.2388|2024-07-23
+78|Persona Jurídica|Delta Asesoría|5|4377.2388|2024-08-23
+78|Persona Jurídica|Delta Asesoría|6|4377.2388|2024-09-23
+78|Persona Jurídica|Delta Asesoría|7|4377.2388|2024-10-23
+78|Persona Jurídica|Delta Asesoría|8|4377.2388|2024-11-23
+78|Persona Jurídica|Delta Asesoría|9|4377.2388|2024-12-23
+141|Persona Jurídica|Delta y Asociados|1|2391.6423|2023-10-19
+141|Persona Jurídica|Delta y Asociados|2|2391.6423|2023-11-19
+141|Persona Jurídica|Delta y Asociados|3|2391.6423|2023-12-19
+141|Persona Jurídica|Delta y Asociados|4|2391.6423|2024-01-19
+141|Persona Jurídica|Delta y Asociados|5|2391.6423|2024-02-19
+141|Persona Jurídica|Delta y Asociados|6|2391.6423|2024-03-19
+141|Persona Jurídica|Delta y Asociados|7|2391.6423|2024-04-19
+141|Persona Jurídica|Delta y Asociados|8|2391.6423|2024-05-19
+141|Persona Jurídica|Delta y Asociados|9|2391.6423|2024-06-19
+141|Persona Jurídica|Delta y Asociados|10|2391.6423|2024-07-19
+141|Persona Jurídica|Delta y Asociados|11|2391.6423|2024-08-19
+141|Persona Jurídica|Delta y Asociados|12|2391.6423|2024-09-19
+141|Persona Jurídica|Delta y Asociados|13|2391.6423|2024-10-19
+141|Persona Jurídica|Delta y Asociados|14|2391.6423|2024-11-19
+141|Persona Jurídica|Delta y Asociados|15|2391.6423|2024-12-19
+144|Persona Jurídica|Empresa Alpha S.A.|1|1406.007|2023-03-15
+144|Persona Jurídica|Empresa Alpha S.A.|2|1406.007|2023-04-15
+144|Persona Jurídica|Empresa Alpha S.A.|3|1406.007|2023-05-15
+144|Persona Jurídica|Empresa Alpha S.A.|4|1406.007|2023-06-15
+144|Persona Jurídica|Empresa Alpha S.A.|5|1406.007|2023-07-15
+144|Persona Jurídica|Empresa Alpha S.A.|6|1406.007|2023-08-15
+144|Persona Jurídica|Empresa Alpha S.A.|7|1406.007|2023-09-15
+144|Persona Jurídica|Empresa Alpha S.A.|8|1406.007|2023-10-15
+144|Persona Jurídica|Empresa Alpha S.A.|9|1406.007|2023-11-15
+144|Persona Jurídica|Empresa Alpha S.A.|10|1406.007|2023-12-15
+144|Persona Jurídica|Empresa Alpha S.A.|11|1406.007|2024-01-15
+144|Persona Jurídica|Empresa Alpha S.A.|12|1406.007|2024-02-15
+144|Persona Jurídica|Empresa Alpha S.A.|13|1406.007|2024-03-15
+144|Persona Jurídica|Empresa Alpha S.A.|14|1406.007|2024-04-15
+144|Persona Jurídica|Empresa Alpha S.A.|15|1406.007|2024-05-15
+144|Persona Jurídica|Empresa Alpha S.A.|16|1406.007|2024-06-15
+144|Persona Jurídica|Empresa Alpha S.A.|17|1406.007|2024-07-15
+144|Persona Jurídica|Empresa Alpha S.A.|18|1406.007|2024-08-15
+144|Persona Jurídica|Empresa Alpha S.A.|19|1406.007|2024-09-15
+144|Persona Jurídica|Empresa Alpha S.A.|20|1406.007|2024-10-15
+144|Persona Jurídica|Empresa Alpha S.A.|21|1406.007|2024-11-15
+144|Persona Jurídica|Empresa Alpha S.A.|22|1406.007|2024-12-15
+79|Persona Jurídica|Epsilon Innovación|1|2959.1451|2023-07-21
+79|Persona Jurídica|Epsilon Innovación|2|2959.1451|2023-08-21
+79|Persona Jurídica|Epsilon Innovación|3|2959.1451|2023-09-21
+79|Persona Jurídica|Epsilon Innovación|4|2959.1451|2023-10-21
+79|Persona Jurídica|Epsilon Innovación|5|2959.1451|2023-11-21
+79|Persona Jurídica|Epsilon Innovación|6|2959.1451|2023-12-21
+79|Persona Jurídica|Epsilon Innovación|7|2959.1451|2024-01-21
+79|Persona Jurídica|Epsilon Innovación|8|2959.1451|2024-02-21
+79|Persona Jurídica|Epsilon Innovación|9|2959.1451|2024-03-21
+79|Persona Jurídica|Epsilon Innovación|10|2959.1451|2024-04-21
+79|Persona Jurídica|Epsilon Innovación|11|2959.1451|2024-05-21
+79|Persona Jurídica|Epsilon Innovación|12|2959.1451|2024-06-21
+79|Persona Jurídica|Epsilon Innovación|13|2959.1451|2024-07-21
+79|Persona Jurídica|Epsilon Innovación|14|2959.1451|2024-08-21
+79|Persona Jurídica|Epsilon Innovación|15|2959.1451|2024-09-21
+79|Persona Jurídica|Epsilon Innovación|16|2959.1451|2024-10-21
+79|Persona Jurídica|Epsilon Innovación|17|2959.1451|2024-11-21
+79|Persona Jurídica|Epsilon Innovación|18|2959.1451|2024-12-21
+68|Persona Jurídica|Epsilon Ltda.|1|6846.7043|2023-08-30
+68|Persona Jurídica|Epsilon Ltda.|2|6846.7043|2023-09-30
+68|Persona Jurídica|Epsilon Ltda.|3|6846.7043|2023-10-30
+68|Persona Jurídica|Epsilon Ltda.|4|6846.7043|2023-11-30
+68|Persona Jurídica|Epsilon Ltda.|5|6846.7043|2023-12-30
+68|Persona Jurídica|Epsilon Ltda.|6|6846.7043|2024-01-30
+68|Persona Jurídica|Epsilon Ltda.|7|6846.7043|2024-02-29
+68|Persona Jurídica|Epsilon Ltda.|8|6846.7043|2024-03-30
+68|Persona Jurídica|Epsilon Ltda.|9|6846.7043|2024-04-30
+68|Persona Jurídica|Epsilon Ltda.|10|6846.7043|2024-05-30
+68|Persona Jurídica|Epsilon Ltda.|11|6846.7043|2024-06-30
+68|Persona Jurídica|Epsilon Ltda.|12|6846.7043|2024-07-30
+105|Persona Natural|Felipe González Torres|1|1810.8938|2023-06-22
+105|Persona Natural|Felipe González Torres|2|1810.8938|2023-07-22
+105|Persona Natural|Felipe González Torres|3|1810.8938|2023-08-22
+105|Persona Natural|Felipe González Torres|4|1810.8938|2023-09-22
+105|Persona Natural|Felipe González Torres|5|1810.8938|2023-10-22
+105|Persona Natural|Felipe González Torres|6|1810.8938|2023-11-22
+105|Persona Natural|Felipe González Torres|7|1810.8938|2023-12-22
+105|Persona Natural|Felipe González Torres|8|1810.8938|2024-01-22
+105|Persona Natural|Felipe González Torres|9|1810.8938|2024-02-22
+105|Persona Natural|Felipe González Torres|10|1810.8938|2024-03-22
+105|Persona Natural|Felipe González Torres|11|1810.8938|2024-04-22
+105|Persona Natural|Felipe González Torres|12|1810.8938|2024-05-22
+105|Persona Natural|Felipe González Torres|13|1810.8938|2024-06-22
+105|Persona Natural|Felipe González Torres|14|1810.8938|2024-07-22
+105|Persona Natural|Felipe González Torres|15|1810.8938|2024-08-22
+105|Persona Natural|Felipe González Torres|16|1810.8938|2024-09-22
+105|Persona Natural|Felipe González Torres|17|1810.8938|2024-10-22
+105|Persona Natural|Felipe González Torres|18|1810.8938|2024-11-22
+105|Persona Natural|Felipe González Torres|19|1810.8938|2024-12-22
+110|Persona Natural|Felipe González Torres|1|4204.0005|2024-08-14
+110|Persona Natural|Felipe González Torres|2|4204.0005|2024-09-14
+110|Persona Natural|Felipe González Torres|3|4204.0005|2024-10-14
+110|Persona Natural|Felipe González Torres|4|4204.0005|2024-11-14
+110|Persona Natural|Felipe González Torres|5|4204.0005|2024-12-14
+84|Persona Natural|Francisco García Ramírez|1|940.2052|2023-08-19
+84|Persona Natural|Francisco García Ramírez|2|940.2052|2023-09-19
+84|Persona Natural|Francisco García Ramírez|3|940.2052|2023-10-19
+84|Persona Natural|Francisco García Ramírez|4|940.2052|2023-11-19
+84|Persona Natural|Francisco García Ramírez|5|940.2052|2023-12-19
+84|Persona Natural|Francisco García Ramírez|6|940.2052|2024-01-19
+84|Persona Natural|Francisco García Ramírez|7|940.2052|2024-02-19
+84|Persona Natural|Francisco García Ramírez|8|940.2052|2024-03-19
+84|Persona Natural|Francisco García Ramírez|9|940.2052|2024-04-19
+84|Persona Natural|Francisco García Ramírez|10|940.2052|2024-05-19
+84|Persona Natural|Francisco García Ramírez|11|940.2052|2024-06-19
+84|Persona Natural|Francisco García Ramírez|12|940.2052|2024-07-19
+84|Persona Natural|Francisco García Ramírez|13|940.2052|2024-08-19
+84|Persona Natural|Francisco García Ramírez|14|940.2052|2024-09-19
+84|Persona Natural|Francisco García Ramírez|15|940.2052|2024-10-19
+115|Persona Natural|Francisco García Ramírez|1|35.9107|2023-06-11
+115|Persona Natural|Francisco García Ramírez|2|35.9107|2023-07-11
+115|Persona Natural|Francisco García Ramírez|3|35.9107|2023-08-11
+115|Persona Natural|Francisco García Ramírez|4|35.9107|2023-09-11
+115|Persona Natural|Francisco García Ramírez|5|35.9107|2023-10-11
+115|Persona Natural|Francisco García Ramírez|6|35.9107|2023-11-11
+115|Persona Natural|Francisco García Ramírez|7|35.9107|2023-12-11
+115|Persona Natural|Francisco García Ramírez|8|35.9107|2024-01-11
+115|Persona Natural|Francisco García Ramírez|9|35.9107|2024-02-11
+115|Persona Natural|Francisco García Ramírez|10|35.9107|2024-03-11
+115|Persona Natural|Francisco García Ramírez|11|35.9107|2024-04-11
+115|Persona Natural|Francisco García Ramírez|12|35.9107|2024-05-11
+115|Persona Natural|Francisco García Ramírez|13|35.9107|2024-06-11
+115|Persona Natural|Francisco García Ramírez|14|35.9107|2024-07-11
+115|Persona Natural|Francisco García Ramírez|15|35.9107|2024-08-11
+115|Persona Natural|Francisco García Ramírez|16|35.9107|2024-09-11
+115|Persona Natural|Francisco García Ramírez|17|35.9107|2024-10-11
+115|Persona Natural|Francisco García Ramírez|18|35.9107|2024-11-11
+115|Persona Natural|Francisco García Ramírez|19|35.9107|2024-12-11
+80|Persona Natural|Francisco González Paredes|1|4289.0775|2024-08-07
+80|Persona Natural|Francisco González Paredes|2|4289.0775|2024-09-07
+80|Persona Natural|Francisco González Paredes|3|4289.0775|2024-10-07
+80|Persona Natural|Francisco González Paredes|4|4289.0775|2024-11-07
+80|Persona Natural|Francisco González Paredes|5|4289.0775|2024-12-07
+127|Persona Jurídica|Gamma Logística|1|326.2087|2023-05-23
+127|Persona Jurídica|Gamma Logística|2|326.2087|2023-06-23
+127|Persona Jurídica|Gamma Logística|3|326.2087|2023-07-23
+127|Persona Jurídica|Gamma Logística|4|326.2087|2023-08-23
+127|Persona Jurídica|Gamma Logística|5|326.2087|2023-09-23
+127|Persona Jurídica|Gamma Logística|6|326.2087|2023-10-23
+127|Persona Jurídica|Gamma Logística|7|326.2087|2023-11-23
+127|Persona Jurídica|Gamma Logística|8|326.2087|2023-12-23
+127|Persona Jurídica|Gamma Logística|9|326.2087|2024-01-23
+127|Persona Jurídica|Gamma Logística|10|326.2087|2024-02-23
+127|Persona Jurídica|Gamma Logística|11|326.2087|2024-03-23
+127|Persona Jurídica|Gamma Logística|12|326.2087|2024-04-23
+127|Persona Jurídica|Gamma Logística|13|326.2087|2024-05-23
+127|Persona Jurídica|Gamma Logística|14|326.2087|2024-06-23
+127|Persona Jurídica|Gamma Logística|15|326.2087|2024-07-23
+127|Persona Jurídica|Gamma Logística|16|326.2087|2024-08-23
+127|Persona Jurídica|Gamma Logística|17|326.2087|2024-09-23
+127|Persona Jurídica|Gamma Logística|18|326.2087|2024-10-23
+127|Persona Jurídica|Gamma Logística|19|326.2087|2024-11-23
+127|Persona Jurídica|Gamma Logística|20|326.2087|2024-12-23
+55|Persona Jurídica|Gamma S.R.L.|1|3287.2306|2024-03-15
+55|Persona Jurídica|Gamma S.R.L.|2|3287.2306|2024-04-15
+55|Persona Jurídica|Gamma S.R.L.|3|3287.2306|2024-05-15
+55|Persona Jurídica|Gamma S.R.L.|4|3287.2306|2024-06-15
+55|Persona Jurídica|Gamma S.R.L.|5|3287.2306|2024-07-15
+55|Persona Jurídica|Gamma S.R.L.|6|3287.2306|2024-08-15
+55|Persona Jurídica|Gamma S.R.L.|7|3287.2306|2024-09-15
+55|Persona Jurídica|Gamma S.R.L.|8|3287.2306|2024-10-15
+55|Persona Jurídica|Gamma S.R.L.|9|3287.2306|2024-11-15
+55|Persona Jurídica|Gamma S.R.L.|10|3287.2306|2024-12-15
+69|Persona Jurídica|Gamma S.R.L.|1|5295.8514|2024-01-06
+69|Persona Jurídica|Gamma S.R.L.|2|5295.8514|2024-02-06
+69|Persona Jurídica|Gamma S.R.L.|3|5295.8514|2024-03-06
+69|Persona Jurídica|Gamma S.R.L.|4|5295.8514|2024-04-06
+69|Persona Jurídica|Gamma S.R.L.|5|5295.8514|2024-05-06
+69|Persona Jurídica|Gamma S.R.L.|6|5295.8514|2024-06-06
+69|Persona Jurídica|Gamma S.R.L.|7|5295.8514|2024-07-06
+69|Persona Jurídica|Gamma S.R.L.|8|5295.8514|2024-08-06
+69|Persona Jurídica|Gamma S.R.L.|9|5295.8514|2024-09-06
+69|Persona Jurídica|Gamma S.R.L.|10|5295.8514|2024-10-06
+69|Persona Jurídica|Gamma S.R.L.|11|5295.8514|2024-11-06
+69|Persona Jurídica|Gamma S.R.L.|12|5295.8514|2024-12-06
+69|Persona Jurídica|Gamma S.R.L.|13|5295.8514|2025-01-06
+98|Persona Jurídica|Iota Ingeniería S.A.C.|1|72.4065|2024-09-30
+98|Persona Jurídica|Iota Ingeniería S.A.C.|2|72.4065|2024-10-30
+98|Persona Jurídica|Iota Ingeniería S.A.C.|3|72.4065|2024-11-30
+98|Persona Jurídica|Iota Ingeniería S.A.C.|4|72.4065|2024-12-30
+114|Persona Natural|Isabel González Sánchez|1|625.5731|2023-02-08
+114|Persona Natural|Isabel González Sánchez|2|625.5731|2023-03-08
+114|Persona Natural|Isabel González Sánchez|3|625.5731|2023-04-08
+114|Persona Natural|Isabel González Sánchez|4|625.5731|2023-05-08
+114|Persona Natural|Isabel González Sánchez|5|625.5731|2023-06-08
+114|Persona Natural|Isabel González Sánchez|6|625.5731|2023-07-08
+114|Persona Natural|Isabel González Sánchez|7|625.5731|2023-08-08
+114|Persona Natural|Isabel González Sánchez|8|625.5731|2023-09-08
+114|Persona Natural|Isabel González Sánchez|9|625.5731|2023-10-08
+114|Persona Natural|Isabel González Sánchez|10|625.5731|2023-11-08
+114|Persona Natural|Isabel González Sánchez|11|625.5731|2023-12-08
+114|Persona Natural|Isabel González Sánchez|12|625.5731|2024-01-08
+114|Persona Natural|Isabel González Sánchez|13|625.5731|2024-02-08
+114|Persona Natural|Isabel González Sánchez|14|625.5731|2024-03-08
+114|Persona Natural|Isabel González Sánchez|15|625.5731|2024-04-08
+114|Persona Natural|Isabel González Sánchez|16|625.5731|2024-05-08
+114|Persona Natural|Isabel González Sánchez|17|625.5731|2024-06-08
+114|Persona Natural|Isabel González Sánchez|18|625.5731|2024-07-08
+114|Persona Natural|Isabel González Sánchez|19|625.5731|2024-08-08
+114|Persona Natural|Isabel González Sánchez|20|625.5731|2024-09-08
+114|Persona Natural|Isabel González Sánchez|21|625.5731|2024-10-08
+114|Persona Natural|Isabel González Sánchez|22|625.5731|2024-11-08
+114|Persona Natural|Isabel González Sánchez|23|625.5731|2024-12-08
+126|Persona Natural|Javier García Torres|1|2643.2553|2023-11-01
+126|Persona Natural|Javier García Torres|2|2643.2553|2023-12-01
+126|Persona Natural|Javier García Torres|3|2643.2553|2024-01-01
+126|Persona Natural|Javier García Torres|4|2643.2553|2024-02-01
+126|Persona Natural|Javier García Torres|5|2643.2553|2024-03-01
+126|Persona Natural|Javier García Torres|6|2643.2553|2024-04-01
+126|Persona Natural|Javier García Torres|7|2643.2553|2024-05-01
+126|Persona Natural|Javier García Torres|8|2643.2553|2024-06-01
+126|Persona Natural|Javier García Torres|9|2643.2553|2024-07-01
+126|Persona Natural|Javier García Torres|10|2643.2553|2024-08-01
+126|Persona Natural|Javier García Torres|11|2643.2553|2024-09-01
+126|Persona Natural|Javier García Torres|12|2643.2553|2024-10-01
+126|Persona Natural|Javier García Torres|13|2643.2553|2024-11-01
+126|Persona Natural|Javier García Torres|14|2643.2553|2024-12-01
+126|Persona Natural|Javier García Torres|15|2643.2553|2025-01-01
+64|Persona Natural|Jessica González Sánchez|1|2684.7692|2024-11-18
+64|Persona Natural|Jessica González Sánchez|2|2684.7692|2024-12-18
+101|Persona Natural|Jessica González Sánchez|1|6801.249|2023-06-13
+101|Persona Natural|Jessica González Sánchez|2|6801.249|2023-07-13
+101|Persona Natural|Jessica González Sánchez|3|6801.249|2023-08-13
+101|Persona Natural|Jessica González Sánchez|4|6801.249|2023-09-13
+101|Persona Natural|Jessica González Sánchez|5|6801.249|2023-10-13
+101|Persona Natural|Jessica González Sánchez|6|6801.249|2023-11-13
+101|Persona Natural|Jessica González Sánchez|7|6801.249|2023-12-13
+101|Persona Natural|Jessica González Sánchez|8|6801.249|2024-01-13
+101|Persona Natural|Jessica González Sánchez|9|6801.249|2024-02-13
+101|Persona Natural|Jessica González Sánchez|10|6801.249|2024-03-13
+101|Persona Natural|Jessica González Sánchez|11|6801.249|2024-04-13
+101|Persona Natural|Jessica González Sánchez|12|6801.249|2024-05-13
+70|Persona Natural|Jessica Suárez Medina|1|3380.9789|2023-05-14
+70|Persona Natural|Jessica Suárez Medina|2|3380.9789|2023-06-14
+70|Persona Natural|Jessica Suárez Medina|3|3380.9789|2023-07-14
+70|Persona Natural|Jessica Suárez Medina|4|3380.9789|2023-08-14
+70|Persona Natural|Jessica Suárez Medina|5|3380.9789|2023-09-14
+70|Persona Natural|Jessica Suárez Medina|6|3380.9789|2023-10-14
+70|Persona Natural|Jessica Suárez Medina|7|3380.9789|2023-11-14
+70|Persona Natural|Jessica Suárez Medina|8|3380.9789|2023-12-14
+70|Persona Natural|Jessica Suárez Medina|9|3380.9789|2024-01-14
+70|Persona Natural|Jessica Suárez Medina|10|3380.9789|2024-02-14
+70|Persona Natural|Jessica Suárez Medina|11|3380.9789|2024-03-14
+70|Persona Natural|Jessica Suárez Medina|12|3380.9789|2024-04-14
+70|Persona Natural|Jessica Suárez Medina|13|3380.9789|2024-05-14
+70|Persona Natural|Jessica Suárez Medina|14|3380.9789|2024-06-14
+70|Persona Natural|Jessica Suárez Medina|15|3380.9789|2024-07-14
+70|Persona Natural|Jessica Suárez Medina|16|3380.9789|2024-08-14
+70|Persona Natural|Jessica Suárez Medina|17|3380.9789|2024-09-14
+70|Persona Natural|Jessica Suárez Medina|18|3380.9789|2024-10-14
+70|Persona Natural|Jessica Suárez Medina|19|3380.9789|2024-11-14
+70|Persona Natural|Jessica Suárez Medina|20|3380.9789|2024-12-14
+76|Persona Natural|Jessica Suárez Medina|1|6918.9079|2024-06-25
+76|Persona Natural|Jessica Suárez Medina|2|6918.9079|2024-07-25
+76|Persona Natural|Jessica Suárez Medina|3|6918.9079|2024-08-25
+76|Persona Natural|Jessica Suárez Medina|4|6918.9079|2024-09-25
+76|Persona Natural|Jessica Suárez Medina|5|6918.9079|2024-10-25
+76|Persona Natural|Jessica Suárez Medina|6|6918.9079|2024-11-25
+76|Persona Natural|Jessica Suárez Medina|7|6918.9079|2024-12-25
+86|Persona Jurídica|JKC Tecnología e Información|1|21.7518|2024-06-28
+86|Persona Jurídica|JKC Tecnología e Información|2|21.7518|2024-07-28
+86|Persona Jurídica|JKC Tecnología e Información|3|21.7518|2024-08-28
+86|Persona Jurídica|JKC Tecnología e Información|4|21.7518|2024-09-28
+86|Persona Jurídica|JKC Tecnología e Información|5|21.7518|2024-10-28
+86|Persona Jurídica|JKC Tecnología e Información|6|21.7518|2024-11-28
+86|Persona Jurídica|JKC Tecnología e Información|7|21.7518|2024-12-28
+93|Persona Jurídica|JKC Tecnología e Información|1|4439.2686|2024-04-05
+93|Persona Jurídica|JKC Tecnología e Información|2|4439.2686|2024-05-05
+93|Persona Jurídica|JKC Tecnología e Información|3|4439.2686|2024-06-05
+93|Persona Jurídica|JKC Tecnología e Información|4|4439.2686|2024-07-05
+93|Persona Jurídica|JKC Tecnología e Información|5|4439.2686|2024-08-05
+93|Persona Jurídica|JKC Tecnología e Información|6|4439.2686|2024-09-05
+93|Persona Jurídica|JKC Tecnología e Información|7|4439.2686|2024-10-05
+93|Persona Jurídica|JKC Tecnología e Información|8|4439.2686|2024-11-05
+93|Persona Jurídica|JKC Tecnología e Información|9|4439.2686|2024-12-05
+93|Persona Jurídica|JKC Tecnología e Información|10|4439.2686|2025-01-05
+139|Persona Jurídica|JKC Tecnología e Información|1|114.161|2024-05-19
+139|Persona Jurídica|JKC Tecnología e Información|2|114.161|2024-06-19
+139|Persona Jurídica|JKC Tecnología e Información|3|114.161|2024-07-19
+139|Persona Jurídica|JKC Tecnología e Información|4|114.161|2024-08-19
+139|Persona Jurídica|JKC Tecnología e Información|5|114.161|2024-09-19
+139|Persona Jurídica|JKC Tecnología e Información|6|114.161|2024-10-19
+139|Persona Jurídica|JKC Tecnología e Información|7|114.161|2024-11-19
+139|Persona Jurídica|JKC Tecnología e Información|8|114.161|2024-12-19
+52|Persona Natural|José López Pérez|1|468.4167|2023-03-10
+52|Persona Natural|José López Pérez|3|1468.4167|2023-05-10
+52|Persona Natural|José López Pérez|4|1468.4167|2023-06-10
+52|Persona Natural|José López Pérez|5|1468.4167|2023-07-10
+52|Persona Natural|José López Pérez|6|1468.4167|2023-08-10
+52|Persona Natural|José López Pérez|7|1468.4167|2023-09-10
+52|Persona Natural|José López Pérez|8|1468.4167|2023-10-10
+52|Persona Natural|José López Pérez|9|1468.4167|2023-11-10
+52|Persona Natural|José López Pérez|10|1468.4167|2023-12-10
+52|Persona Natural|José López Pérez|11|1468.4167|2024-01-10
+52|Persona Natural|José López Pérez|12|1468.4167|2024-02-10
+52|Persona Natural|José López Pérez|13|1468.4167|2024-03-10
+52|Persona Natural|José López Pérez|14|1468.4167|2024-04-10
+52|Persona Natural|José López Pérez|15|1468.4167|2024-05-10
+52|Persona Natural|José López Pérez|16|1468.4167|2024-06-10
+52|Persona Natural|José López Pérez|17|1468.4167|2024-07-10
+52|Persona Natural|José López Pérez|18|1468.4167|2024-08-10
+52|Persona Natural|José López Pérez|19|1468.4167|2024-09-10
+52|Persona Natural|José López Pérez|20|1468.4167|2024-10-10
+52|Persona Natural|José López Pérez|21|1468.4167|2024-11-10
+52|Persona Natural|José López Pérez|22|1468.4167|2024-12-10
+62|Persona Natural|José López Pérez|1|852.4986|2024-10-25
+62|Persona Natural|José López Pérez|2|852.4986|2024-11-25
+62|Persona Natural|José López Pérez|3|852.4986|2024-12-25
+106|Persona Natural|José López Suárez|1|2379.5395|2023-02-25
+106|Persona Natural|José López Suárez|2|2379.5395|2023-03-25
+106|Persona Natural|José López Suárez|3|2379.5395|2023-04-25
+106|Persona Natural|José López Suárez|4|2379.5395|2023-05-25
+106|Persona Natural|José López Suárez|5|2379.5395|2023-06-25
+106|Persona Natural|José López Suárez|6|2379.5395|2023-07-25
+106|Persona Natural|José López Suárez|7|2379.5395|2023-08-25
+106|Persona Natural|José López Suárez|8|2379.5395|2023-09-25
+106|Persona Natural|José López Suárez|9|2379.5395|2023-10-25
+106|Persona Natural|José López Suárez|10|2379.5395|2023-11-25
+106|Persona Natural|José López Suárez|11|2379.5395|2023-12-25
+106|Persona Natural|José López Suárez|12|2379.5395|2024-01-25
+106|Persona Natural|José López Suárez|13|2379.5395|2024-02-25
+106|Persona Natural|José López Suárez|14|2379.5395|2024-03-25
+106|Persona Natural|José López Suárez|15|2379.5395|2024-04-25
+106|Persona Natural|José López Suárez|16|2379.5395|2024-05-25
+106|Persona Natural|José López Suárez|17|2379.5395|2024-06-25
+106|Persona Natural|José López Suárez|18|2379.5395|2024-07-25
+106|Persona Natural|José López Suárez|19|2379.5395|2024-08-25
+106|Persona Natural|José López Suárez|20|2379.5395|2024-09-25
+106|Persona Natural|José López Suárez|21|2379.5395|2024-10-25
+92|Persona Natural|Juan Alvarez Lopez|1|2790.3217|2023-01-24
+92|Persona Natural|Juan Alvarez Lopez|2|2790.3217|2023-02-24
+92|Persona Natural|Juan Alvarez Lopez|3|2790.3217|2023-03-24
+92|Persona Natural|Juan Alvarez Lopez|4|2790.3217|2023-04-24
+92|Persona Natural|Juan Alvarez Lopez|5|2790.3217|2023-05-24
+92|Persona Natural|Juan Alvarez Lopez|6|2790.3217|2023-06-24
+92|Persona Natural|Juan Alvarez Lopez|7|2790.3217|2023-07-24
+92|Persona Natural|Juan Alvarez Lopez|8|2790.3217|2023-08-24
+92|Persona Natural|Juan Alvarez Lopez|9|2790.3217|2023-09-24
+92|Persona Natural|Juan Alvarez Lopez|10|2790.3217|2023-10-24
+92|Persona Natural|Juan Alvarez Lopez|11|2790.3217|2023-11-24
+92|Persona Natural|Juan Alvarez Lopez|12|2790.3217|2023-12-24
+136|Persona Natural|Juan Alvarez Lopez|1|10150.664|2023-10-21
+136|Persona Natural|Juan Alvarez Lopez|2|10150.664|2023-11-21
+136|Persona Natural|Juan Alvarez Lopez|3|10150.664|2023-12-21
+136|Persona Natural|Juan Alvarez Lopez|4|10150.664|2024-01-21
+136|Persona Natural|Juan Alvarez Lopez|5|10150.664|2024-02-21
+136|Persona Natural|Juan Alvarez Lopez|6|10150.664|2024-03-21
+136|Persona Natural|Juan Alvarez Lopez|7|10150.664|2024-04-21
+136|Persona Natural|Juan Alvarez Lopez|8|10150.664|2024-05-21
+136|Persona Natural|Juan Alvarez Lopez|9|10150.664|2024-06-21
+136|Persona Natural|Juan Alvarez Lopez|10|10150.664|2024-07-21
+136|Persona Natural|Juan Alvarez Lopez|11|10150.664|2024-08-21
+136|Persona Natural|Juan Alvarez Lopez|12|10150.664|2024-09-21
+136|Persona Natural|Juan Alvarez Lopez|13|10150.664|2024-10-21
+130|Persona Natural|Julia Martínez Cruz|1|1492.8914|2024-07-09
+130|Persona Natural|Julia Martínez Cruz|2|1492.8914|2024-08-09
+130|Persona Natural|Julia Martínez Cruz|3|1492.8914|2024-09-09
+130|Persona Natural|Julia Martínez Cruz|4|1492.8914|2024-10-09
+130|Persona Natural|Julia Martínez Cruz|5|1492.8914|2024-11-09
+130|Persona Natural|Julia Martínez Cruz|6|1492.8914|2024-12-09
+119|Persona Natural|Lucía Martínez González|1|6220.1136|2023-06-01
+119|Persona Natural|Lucía Martínez González|2|6220.1136|2023-07-01
+119|Persona Natural|Lucía Martínez González|3|6220.1136|2023-08-01
+119|Persona Natural|Lucía Martínez González|4|6220.1136|2023-09-01
+119|Persona Natural|Lucía Martínez González|5|6220.1136|2023-10-01
+119|Persona Natural|Lucía Martínez González|6|6220.1136|2023-11-01
+119|Persona Natural|Lucía Martínez González|7|6220.1136|2023-12-01
+119|Persona Natural|Lucía Martínez González|8|6220.1136|2024-01-01
+119|Persona Natural|Lucía Martínez González|9|6220.1136|2024-02-01
+119|Persona Natural|Lucía Martínez González|10|6220.1136|2024-03-01
+119|Persona Natural|Lucía Martínez González|11|6220.1136|2024-04-01
+119|Persona Natural|Lucía Martínez González|12|6220.1136|2024-05-01
+122|Persona Natural|Lucía Martínez González|1|485.5588|2024-05-09
+122|Persona Natural|Lucía Martínez González|2|485.5588|2024-06-09
+122|Persona Natural|Lucía Martínez González|3|485.5588|2024-07-09
+122|Persona Natural|Lucía Martínez González|4|485.5588|2024-08-09
+122|Persona Natural|Lucía Martínez González|5|485.5588|2024-09-09
+122|Persona Natural|Lucía Martínez González|6|485.5588|2024-10-09
+122|Persona Natural|Lucía Martínez González|7|485.5588|2024-11-09
+122|Persona Natural|Lucía Martínez González|8|485.5588|2024-12-09
+61|Persona Natural|Luis Rodríguez Lozano|1|400.5807|2022-12-18
+61|Persona Natural|Luis Rodríguez Lozano|2|400.5807|2023-01-18
+61|Persona Natural|Luis Rodríguez Lozano|3|400.5807|2023-02-18
+61|Persona Natural|Luis Rodríguez Lozano|4|400.5807|2023-03-18
+61|Persona Natural|Luis Rodríguez Lozano|5|400.5807|2023-04-18
+61|Persona Natural|Luis Rodríguez Lozano|6|400.5807|2023-05-18
+61|Persona Natural|Luis Rodríguez Lozano|7|400.5807|2023-06-18
+61|Persona Natural|Luis Rodríguez Lozano|8|400.5807|2023-07-18
+61|Persona Natural|Luis Rodríguez Lozano|9|400.5807|2023-08-18
+61|Persona Natural|Luis Rodríguez Lozano|10|400.5807|2023-09-18
+61|Persona Natural|Luis Rodríguez Lozano|11|400.5807|2023-10-18
+61|Persona Natural|Luis Rodríguez Lozano|12|400.5807|2023-11-18
+61|Persona Natural|Luis Rodríguez Lozano|13|400.5807|2023-12-18
+61|Persona Natural|Luis Rodríguez Lozano|14|400.5807|2024-01-18
+61|Persona Natural|Luis Rodríguez Lozano|15|400.5807|2024-02-18
+61|Persona Natural|Luis Rodríguez Lozano|16|400.5807|2024-03-18
+61|Persona Natural|Luis Rodríguez Lozano|17|400.5807|2024-04-18
+61|Persona Natural|Luis Rodríguez Lozano|18|400.5807|2024-05-18
+61|Persona Natural|Luis Rodríguez Lozano|19|400.5807|2024-06-18
+61|Persona Natural|Luis Rodríguez Lozano|20|400.5807|2024-07-18
+61|Persona Natural|Luis Rodríguez Lozano|21|400.5807|2024-08-18
+61|Persona Natural|Luis Rodríguez Lozano|22|400.5807|2024-09-18
+61|Persona Natural|Luis Rodríguez Lozano|23|400.5807|2024-10-18
+61|Persona Natural|Luis Rodríguez Lozano|24|400.5807|2024-11-18
+61|Persona Natural|Luis Rodríguez Lozano|25|400.5807|2024-12-18
+83|Persona Natural|Manuel Sánchez Pérez|1|1958.9912|2024-10-07
+83|Persona Natural|Manuel Sánchez Pérez|2|1958.9912|2024-11-07
+83|Persona Natural|Manuel Sánchez Pérez|3|1958.9912|2024-12-07
+113|Persona Natural|María Rodríguez López|1|3265.7755|2024-12-30
+128|Persona Natural|María Rodríguez López|1|1488.8514|2024-07-05
+128|Persona Natural|María Rodríguez López|2|1488.8514|2024-08-05
+128|Persona Natural|María Rodríguez López|3|1488.8514|2024-09-05
+128|Persona Natural|María Rodríguez López|4|1488.8514|2024-10-05
+128|Persona Natural|María Rodríguez López|5|1488.8514|2024-11-05
+128|Persona Natural|María Rodríguez López|6|1488.8514|2024-12-05
+128|Persona Natural|María Rodríguez López|7|1488.8514|2025-01-05
+71|Persona Natural|Marta Sánchez Torres|1|4894.6542|2023-02-18
+71|Persona Natural|Marta Sánchez Torres|2|4894.6542|2023-03-18
+71|Persona Natural|Marta Sánchez Torres|3|4894.6542|2023-04-18
+71|Persona Natural|Marta Sánchez Torres|4|4894.6542|2023-05-18
+71|Persona Natural|Marta Sánchez Torres|5|4894.6542|2023-06-18
+71|Persona Natural|Marta Sánchez Torres|6|4894.6542|2023-07-18
+71|Persona Natural|Marta Sánchez Torres|7|4894.6542|2023-08-18
+71|Persona Natural|Marta Sánchez Torres|8|4894.6542|2023-09-18
+71|Persona Natural|Marta Sánchez Torres|9|4894.6542|2023-10-18
+71|Persona Natural|Marta Sánchez Torres|10|4894.6542|2023-11-18
+71|Persona Natural|Marta Sánchez Torres|11|4894.6542|2023-12-18
+71|Persona Natural|Marta Sánchez Torres|12|4894.6542|2024-01-18
+71|Persona Natural|Marta Sánchez Torres|13|4894.6542|2024-02-18
+71|Persona Natural|Marta Sánchez Torres|14|4894.6542|2024-03-18
+71|Persona Natural|Marta Sánchez Torres|15|4894.6542|2024-04-18
+71|Persona Natural|Marta Sánchez Torres|16|4894.6542|2024-05-18
+71|Persona Natural|Marta Sánchez Torres|17|4894.6542|2024-06-18
+71|Persona Natural|Marta Sánchez Torres|18|4894.6542|2024-07-18
+54|Persona Natural|Martín Rodríguez Gómez|1|1347.1034|2024-10-05
+54|Persona Natural|Martín Rodríguez Gómez|2|1347.1034|2024-11-05
+54|Persona Natural|Martín Rodríguez Gómez|3|1347.1034|2024-12-05
+54|Persona Natural|Martín Rodríguez Gómez|4|1347.1034|2025-01-05
+87|Persona Jurídica|Mu Financiera|1|3036.3813|2024-11-23
+87|Persona Jurídica|Mu Financiera|2|3036.3813|2024-12-23
+121|Persona Jurídica|Mu Financiera|1|8954.4253|2024-02-21
+121|Persona Jurídica|Mu Financiera|2|8954.4253|2024-03-21
+121|Persona Jurídica|Mu Financiera|3|8954.4253|2024-04-21
+121|Persona Jurídica|Mu Financiera|4|8954.4253|2024-05-21
+121|Persona Jurídica|Mu Financiera|5|8954.4253|2024-06-21
+121|Persona Jurídica|Mu Financiera|6|8954.4253|2024-07-21
+121|Persona Jurídica|Mu Financiera|7|8954.4253|2024-08-21
+121|Persona Jurídica|Mu Financiera|8|8954.4253|2024-09-21
+121|Persona Jurídica|Mu Financiera|9|8954.4253|2024-10-21
+121|Persona Jurídica|Mu Financiera|10|8954.4253|2024-11-21
+121|Persona Jurídica|Mu Financiera|11|8954.4253|2024-12-21
+103|Persona Jurídica|Omega Global S.A.C.|1|5688.9064|2024-03-10
+103|Persona Jurídica|Omega Global S.A.C.|2|5688.9064|2024-04-10
+103|Persona Jurídica|Omega Global S.A.C.|3|5688.9064|2024-05-10
+103|Persona Jurídica|Omega Global S.A.C.|4|5688.9064|2024-06-10
+103|Persona Jurídica|Omega Global S.A.C.|5|5688.9064|2024-07-10
+103|Persona Jurídica|Omega Global S.A.C.|6|5688.9064|2024-08-10
+103|Persona Jurídica|Omega Global S.A.C.|7|5688.9064|2024-09-10
+103|Persona Jurídica|Omega Global S.A.C.|8|5688.9064|2024-10-10
+103|Persona Jurídica|Omega Global S.A.C.|9|5688.9064|2024-11-10
+103|Persona Jurídica|Omega Global S.A.C.|10|5688.9064|2024-12-10
+140|Persona Jurídica|Omega Global S.A.C.|1|349.3747|2024-01-15
+140|Persona Jurídica|Omega Global S.A.C.|2|349.3747|2024-02-15
+140|Persona Jurídica|Omega Global S.A.C.|3|349.3747|2024-03-15
+140|Persona Jurídica|Omega Global S.A.C.|4|349.3747|2024-04-15
+140|Persona Jurídica|Omega Global S.A.C.|5|349.3747|2024-05-15
+140|Persona Jurídica|Omega Global S.A.C.|6|349.3747|2024-06-15
+140|Persona Jurídica|Omega Global S.A.C.|7|349.3747|2024-07-15
+140|Persona Jurídica|Omega Global S.A.C.|8|349.3747|2024-08-15
+140|Persona Jurídica|Omega Global S.A.C.|9|349.3747|2024-09-15
+140|Persona Jurídica|Omega Global S.A.C.|10|349.3747|2024-10-15
+140|Persona Jurídica|Omega Global S.A.C.|11|349.3747|2024-11-15
+140|Persona Jurídica|Omega Global S.A.C.|12|349.3747|2024-12-15
+81|Persona Jurídica|Omicron Logística|1|5369.1628|2023-07-02
+81|Persona Jurídica|Omicron Logística|2|5369.1628|2023-08-02
+81|Persona Jurídica|Omicron Logística|3|5369.1628|2023-09-02
+81|Persona Jurídica|Omicron Logística|4|5369.1628|2023-10-02
+81|Persona Jurídica|Omicron Logística|5|5369.1628|2023-11-02
+81|Persona Jurídica|Omicron Logística|6|5369.1628|2023-12-02
+81|Persona Jurídica|Omicron Logística|7|5369.1628|2024-01-02
+81|Persona Jurídica|Omicron Logística|8|5369.1628|2024-02-02
+81|Persona Jurídica|Omicron Logística|9|5369.1628|2024-03-02
+81|Persona Jurídica|Omicron Logística|10|5369.1628|2024-04-02
+81|Persona Jurídica|Omicron Logística|11|5369.1628|2024-05-02
+81|Persona Jurídica|Omicron Logística|12|5369.1628|2024-06-02
+81|Persona Jurídica|Omicron Logística|13|5369.1628|2024-07-02
+81|Persona Jurídica|Omicron Logística|14|5369.1628|2024-08-02
+81|Persona Jurídica|Omicron Logística|15|5369.1628|2024-09-02
+81|Persona Jurídica|Omicron Logística|16|5369.1628|2024-10-02
+81|Persona Jurídica|Omicron Logística|17|5369.1628|2024-11-02
+81|Persona Jurídica|Omicron Logística|18|5369.1628|2024-12-02
+81|Persona Jurídica|Omicron Logística|19|5369.1628|2025-01-02
+59|Persona Natural|Oscar López Rivas|1|8892.6661|2023-05-08
+59|Persona Natural|Oscar López Rivas|2|8892.6661|2023-06-08
+59|Persona Natural|Oscar López Rivas|3|8892.6661|2023-07-08
+59|Persona Natural|Oscar López Rivas|4|8892.6661|2023-08-08
+59|Persona Natural|Oscar López Rivas|5|8892.6661|2023-09-08
+59|Persona Natural|Oscar López Rivas|6|8892.6661|2023-10-08
+59|Persona Natural|Oscar López Rivas|7|8892.6661|2023-11-08
+59|Persona Natural|Oscar López Rivas|8|8892.6661|2023-12-08
+59|Persona Natural|Oscar López Rivas|9|8892.6661|2024-01-08
+59|Persona Natural|Oscar López Rivas|10|8892.6661|2024-02-08
+59|Persona Natural|Oscar López Rivas|11|8892.6661|2024-03-08
+59|Persona Natural|Oscar López Rivas|12|8892.6661|2024-04-08
+59|Persona Natural|Oscar López Rivas|13|8892.6661|2024-05-08
+59|Persona Natural|Oscar López Rivas|14|8892.6661|2024-06-08
+59|Persona Natural|Oscar López Rivas|15|8892.6661|2024-07-08
+59|Persona Natural|Oscar López Rivas|16|8892.6661|2024-08-08
+59|Persona Natural|Oscar López Rivas|17|8892.6661|2024-09-08
+85|Persona Natural|Oscar López Rivas|1|1240.0052|2024-03-10
+85|Persona Natural|Oscar López Rivas|2|1240.0052|2024-04-10
+85|Persona Natural|Oscar López Rivas|3|1240.0052|2024-05-10
+85|Persona Natural|Oscar López Rivas|4|1240.0052|2024-06-10
+85|Persona Natural|Oscar López Rivas|5|1240.0052|2024-07-10
+85|Persona Natural|Oscar López Rivas|6|1240.0052|2024-08-10
+85|Persona Natural|Oscar López Rivas|7|1240.0052|2024-09-10
+85|Persona Natural|Oscar López Rivas|8|1240.0052|2024-10-10
+85|Persona Natural|Oscar López Rivas|9|1240.0052|2024-11-10
+85|Persona Natural|Oscar López Rivas|10|1240.0052|2024-12-10
+96|Persona Natural|Oscar López Rivas|1|8154.602|2022-12-21
+96|Persona Natural|Oscar López Rivas|2|8154.602|2023-01-21
+96|Persona Natural|Oscar López Rivas|3|8154.602|2023-02-21
+96|Persona Natural|Oscar López Rivas|4|8154.602|2023-03-21
+96|Persona Natural|Oscar López Rivas|5|8154.602|2023-04-21
+96|Persona Natural|Oscar López Rivas|6|8154.602|2023-05-21
+96|Persona Natural|Oscar López Rivas|7|8154.602|2023-06-21
+96|Persona Natural|Oscar López Rivas|8|8154.602|2023-07-21
+96|Persona Natural|Oscar López Rivas|9|8154.602|2023-08-21
+96|Persona Natural|Oscar López Rivas|10|8154.602|2023-09-21
+96|Persona Natural|Oscar López Rivas|11|8154.602|2023-10-21
+96|Persona Natural|Oscar López Rivas|12|8154.602|2023-11-21
+96|Persona Natural|Oscar López Rivas|13|8154.602|2023-12-21
+96|Persona Natural|Oscar López Rivas|14|8154.602|2024-01-21
+96|Persona Natural|Oscar López Rivas|15|8154.602|2024-02-21
+96|Persona Natural|Oscar López Rivas|16|8154.602|2024-03-21
+96|Persona Natural|Oscar López Rivas|17|8154.602|2024-04-21
+96|Persona Natural|Oscar López Rivas|18|8154.602|2024-05-21
+96|Persona Natural|Oscar López Rivas|19|8154.602|2024-06-21
+96|Persona Natural|Oscar López Rivas|20|8154.602|2024-07-21
+96|Persona Natural|Oscar López Rivas|21|8154.602|2024-08-21
+66|Persona Natural|Patricia González Martínez|1|227.1864|2023-01-03
+66|Persona Natural|Patricia González Martínez|2|227.1864|2023-02-03
+66|Persona Natural|Patricia González Martínez|3|227.1864|2023-03-03
+66|Persona Natural|Patricia González Martínez|4|227.1864|2023-04-03
+66|Persona Natural|Patricia González Martínez|5|227.1864|2023-05-03
+66|Persona Natural|Patricia González Martínez|6|227.1864|2023-06-03
+66|Persona Natural|Patricia González Martínez|7|227.1864|2023-07-03
+66|Persona Natural|Patricia González Martínez|8|227.1864|2023-08-03
+66|Persona Natural|Patricia González Martínez|9|227.1864|2023-09-03
+66|Persona Natural|Patricia González Martínez|10|227.1864|2023-10-03
+66|Persona Natural|Patricia González Martínez|11|227.1864|2023-11-03
+66|Persona Natural|Patricia González Martínez|12|227.1864|2023-12-03
+66|Persona Natural|Patricia González Martínez|13|227.1864|2024-01-03
+66|Persona Natural|Patricia González Martínez|14|227.1864|2024-02-03
+66|Persona Natural|Patricia González Martínez|15|227.1864|2024-03-03
+66|Persona Natural|Patricia González Martínez|16|227.1864|2024-04-03
+66|Persona Natural|Patricia González Martínez|17|227.1864|2024-05-03
+66|Persona Natural|Patricia González Martínez|18|227.1864|2024-06-03
+66|Persona Natural|Patricia González Martínez|19|227.1864|2024-07-03
+66|Persona Natural|Patricia González Martínez|20|227.1864|2024-08-03
+66|Persona Natural|Patricia González Martínez|21|227.1864|2024-09-03
+66|Persona Natural|Patricia González Martínez|22|227.1864|2024-10-03
+66|Persona Natural|Patricia González Martínez|23|227.1864|2024-11-03
+66|Persona Natural|Patricia González Martínez|24|227.1864|2024-12-03
+66|Persona Natural|Patricia González Martínez|25|227.1864|2025-01-03
+108|Persona Natural|Patricia González Martínez|1|1586.4251|2024-06-29
+108|Persona Natural|Patricia González Martínez|2|1586.4251|2024-07-29
+108|Persona Natural|Patricia González Martínez|3|1586.4251|2024-08-29
+108|Persona Natural|Patricia González Martínez|4|1586.4251|2024-09-29
+108|Persona Natural|Patricia González Martínez|5|1586.4251|2024-10-29
+108|Persona Natural|Patricia González Martínez|6|1586.4251|2024-11-29
+108|Persona Natural|Patricia González Martínez|7|1586.4251|2024-12-29
+124|Persona Natural|Patricia González Martínez|1|8157.3473|2024-10-14
+124|Persona Natural|Patricia González Martínez|2|8157.3473|2024-11-14
+124|Persona Natural|Patricia González Martínez|3|8157.3473|2024-12-14
+57|Persona Natural|Patricia González Navarro|1|4346.5366|2024-04-22
+57|Persona Natural|Patricia González Navarro|2|4346.5366|2024-05-22
+57|Persona Natural|Patricia González Navarro|3|4346.5366|2024-06-22
+57|Persona Natural|Patricia González Navarro|4|4346.5366|2024-07-22
+57|Persona Natural|Patricia González Navarro|5|4346.5366|2024-08-22
+57|Persona Natural|Patricia González Navarro|6|4346.5366|2024-09-22
+57|Persona Natural|Patricia González Navarro|7|4346.5366|2024-10-22
+57|Persona Natural|Patricia González Navarro|8|4346.5366|2024-11-22
+57|Persona Natural|Patricia González Navarro|9|4346.5366|2024-12-22
+65|Persona Natural|Patricia González Navarro|1|1311.7514|2024-07-22
+65|Persona Natural|Patricia González Navarro|2|1311.7514|2024-08-22
+65|Persona Natural|Patricia González Navarro|3|1311.7514|2024-09-22
+65|Persona Natural|Patricia González Navarro|4|1311.7514|2024-10-22
+65|Persona Natural|Patricia González Navarro|5|1311.7514|2024-11-22
+65|Persona Natural|Patricia González Navarro|6|1311.7514|2024-12-22
+67|Persona Natural|Patricia González Navarro|1|2091.3126|2024-02-08
+67|Persona Natural|Patricia González Navarro|2|2091.3126|2024-03-08
+67|Persona Natural|Patricia González Navarro|3|2091.3126|2024-04-08
+67|Persona Natural|Patricia González Navarro|4|2091.3126|2024-05-08
+67|Persona Natural|Patricia González Navarro|5|2091.3126|2024-06-08
+67|Persona Natural|Patricia González Navarro|6|2091.3126|2024-07-08
+67|Persona Natural|Patricia González Navarro|7|2091.3126|2024-08-08
+67|Persona Natural|Patricia González Navarro|8|2091.3126|2024-09-08
+67|Persona Natural|Patricia González Navarro|9|2091.3126|2024-10-08
+67|Persona Natural|Patricia González Navarro|10|2091.3126|2024-11-08
+67|Persona Natural|Patricia González Navarro|11|2091.3126|2024-12-08
+125|Persona Natural|Patricia González Navarro|1|3299.6411|2022-12-26
+125|Persona Natural|Patricia González Navarro|2|3299.6411|2023-01-26
+125|Persona Natural|Patricia González Navarro|3|3299.6411|2023-02-26
+125|Persona Natural|Patricia González Navarro|4|3299.6411|2023-03-26
+125|Persona Natural|Patricia González Navarro|5|3299.6411|2023-04-26
+125|Persona Natural|Patricia González Navarro|6|3299.6411|2023-05-26
+125|Persona Natural|Patricia González Navarro|7|3299.6411|2023-06-26
+125|Persona Natural|Patricia González Navarro|8|3299.6411|2023-07-26
+125|Persona Natural|Patricia González Navarro|9|3299.6411|2023-08-26
+125|Persona Natural|Patricia González Navarro|10|3299.6411|2023-09-26
+125|Persona Natural|Patricia González Navarro|11|3299.6411|2023-10-26
+125|Persona Natural|Patricia González Navarro|12|3299.6411|2023-11-26
+125|Persona Natural|Patricia González Navarro|13|3299.6411|2023-12-26
+125|Persona Natural|Patricia González Navarro|14|3299.6411|2024-01-26
+125|Persona Natural|Patricia González Navarro|15|3299.6411|2024-02-26
+125|Persona Natural|Patricia González Navarro|16|3299.6411|2024-03-26
+125|Persona Natural|Patricia González Navarro|17|3299.6411|2024-04-26
+125|Persona Natural|Patricia González Navarro|18|3299.6411|2024-05-26
+125|Persona Natural|Patricia González Navarro|19|3299.6411|2024-06-26
+125|Persona Natural|Patricia González Navarro|20|3299.6411|2024-07-26
+125|Persona Natural|Patricia González Navarro|21|3299.6411|2024-08-26
+125|Persona Natural|Patricia González Navarro|22|3299.6411|2024-09-26
+125|Persona Natural|Patricia González Navarro|23|3299.6411|2024-10-26
+125|Persona Natural|Patricia González Navarro|24|3299.6411|2024-11-26
+125|Persona Natural|Patricia González Navarro|25|3299.6411|2024-12-26
+51|Persona Natural|Patricia Torres Mora|1|4694.5709|2024-06-21
+51|Persona Natural|Patricia Torres Mora|2|4694.5709|2024-07-21
+51|Persona Natural|Patricia Torres Mora|3|4694.5709|2024-08-21
+51|Persona Natural|Patricia Torres Mora|4|4694.5709|2024-09-21
+51|Persona Natural|Patricia Torres Mora|5|4694.5709|2024-10-21
+51|Persona Natural|Patricia Torres Mora|6|4694.5709|2024-11-21
+51|Persona Natural|Patricia Torres Mora|7|4694.5709|2024-12-21
+91|Persona Natural|Patricia Torres Mora|1|4779.7741|2023-09-02
+91|Persona Natural|Patricia Torres Mora|2|4779.7741|2023-10-02
+91|Persona Natural|Patricia Torres Mora|3|4779.7741|2023-11-02
+91|Persona Natural|Patricia Torres Mora|4|4779.7741|2023-12-02
+91|Persona Natural|Patricia Torres Mora|5|4779.7741|2024-01-02
+91|Persona Natural|Patricia Torres Mora|6|4779.7741|2024-02-02
+91|Persona Natural|Patricia Torres Mora|7|4779.7741|2024-03-02
+91|Persona Natural|Patricia Torres Mora|8|4779.7741|2024-04-02
+91|Persona Natural|Patricia Torres Mora|9|4779.7741|2024-05-02
+91|Persona Natural|Patricia Torres Mora|10|4779.7741|2024-06-02
+91|Persona Natural|Patricia Torres Mora|11|4779.7741|2024-07-02
+91|Persona Natural|Patricia Torres Mora|12|4779.7741|2024-08-02
+91|Persona Natural|Patricia Torres Mora|13|4779.7741|2024-09-02
+90|Persona Natural|Pedro Sánchez Martínez|1|448.7904|2024-01-21
+90|Persona Natural|Pedro Sánchez Martínez|2|448.7904|2024-02-21
+90|Persona Natural|Pedro Sánchez Martínez|3|448.7904|2024-03-21
+90|Persona Natural|Pedro Sánchez Martínez|4|448.7904|2024-04-21
+90|Persona Natural|Pedro Sánchez Martínez|5|448.7904|2024-05-21
+90|Persona Natural|Pedro Sánchez Martínez|6|448.7904|2024-06-21
+90|Persona Natural|Pedro Sánchez Martínez|7|448.7904|2024-07-21
+90|Persona Natural|Pedro Sánchez Martínez|8|448.7904|2024-08-21
+90|Persona Natural|Pedro Sánchez Martínez|9|448.7904|2024-09-21
+90|Persona Natural|Pedro Sánchez Martínez|10|448.7904|2024-10-21
+90|Persona Natural|Pedro Sánchez Martínez|11|448.7904|2024-11-21
+90|Persona Natural|Pedro Sánchez Martínez|12|448.7904|2024-12-21
+131|Persona Natural|Pedro Sánchez Martínez|1|3349.6216|2024-07-23
+131|Persona Natural|Pedro Sánchez Martínez|2|3349.6216|2024-08-23
+131|Persona Natural|Pedro Sánchez Martínez|3|3349.6216|2024-09-23
+131|Persona Natural|Pedro Sánchez Martínez|4|3349.6216|2024-10-23
+131|Persona Natural|Pedro Sánchez Martínez|5|3349.6216|2024-11-23
+131|Persona Natural|Pedro Sánchez Martínez|6|3349.6216|2024-12-23
+111|Persona Jurídica|Pi Internacional|1|324.9353|2024-03-23
+111|Persona Jurídica|Pi Internacional|2|324.9353|2024-04-23
+111|Persona Jurídica|Pi Internacional|3|324.9353|2024-05-23
+111|Persona Jurídica|Pi Internacional|4|324.9353|2024-06-23
+111|Persona Jurídica|Pi Internacional|5|324.9353|2024-07-23
+111|Persona Jurídica|Pi Internacional|6|324.9353|2024-08-23
+111|Persona Jurídica|Pi Internacional|7|324.9353|2024-09-23
+111|Persona Jurídica|Pi Internacional|8|324.9353|2024-10-23
+111|Persona Jurídica|Pi Internacional|9|324.9353|2024-11-23
+111|Persona Jurídica|Pi Internacional|10|324.9353|2024-12-23
+109|Persona Jurídica|Rho Exportaciones|1|355.2888|2024-01-15
+109|Persona Jurídica|Rho Exportaciones|2|355.2888|2024-02-15
+109|Persona Jurídica|Rho Exportaciones|3|355.2888|2024-03-15
+109|Persona Jurídica|Rho Exportaciones|4|355.2888|2024-04-15
+109|Persona Jurídica|Rho Exportaciones|5|355.2888|2024-05-15
+109|Persona Jurídica|Rho Exportaciones|6|355.2888|2024-06-15
+109|Persona Jurídica|Rho Exportaciones|7|355.2888|2024-07-15
+109|Persona Jurídica|Rho Exportaciones|8|355.2888|2024-08-15
+109|Persona Jurídica|Rho Exportaciones|9|355.2888|2024-09-15
+109|Persona Jurídica|Rho Exportaciones|10|355.2888|2024-10-15
+109|Persona Jurídica|Rho Exportaciones|11|355.2888|2024-11-15
+109|Persona Jurídica|Rho Exportaciones|12|355.2888|2024-12-15
+53|Persona Natural|Ricardo Jiménez Bravo|1|8007.9826|2023-07-04
+53|Persona Natural|Ricardo Jiménez Bravo|2|8007.9826|2023-08-04
+53|Persona Natural|Ricardo Jiménez Bravo|3|8007.9826|2023-09-04
+53|Persona Natural|Ricardo Jiménez Bravo|4|8007.9826|2023-10-04
+53|Persona Natural|Ricardo Jiménez Bravo|5|8007.9826|2023-11-04
+53|Persona Natural|Ricardo Jiménez Bravo|6|8007.9826|2023-12-04
+53|Persona Natural|Ricardo Jiménez Bravo|7|8007.9826|2024-01-04
+53|Persona Natural|Ricardo Jiménez Bravo|8|8007.9826|2024-02-04
+53|Persona Natural|Ricardo Jiménez Bravo|9|8007.9826|2024-03-04
+53|Persona Natural|Ricardo Jiménez Bravo|10|8007.9826|2024-04-04
+53|Persona Natural|Ricardo Jiménez Bravo|11|8007.9826|2024-05-04
+53|Persona Natural|Ricardo Jiménez Bravo|12|8007.9826|2024-06-04
+53|Persona Natural|Ricardo Jiménez Bravo|13|8007.9826|2024-07-04
+53|Persona Natural|Ricardo Jiménez Bravo|14|8007.9826|2024-08-04
+53|Persona Natural|Ricardo Jiménez Bravo|15|8007.9826|2024-09-04
+53|Persona Natural|Ricardo Jiménez Bravo|16|8007.9826|2024-10-04
+58|Persona Natural|Rosa Rodríguez Reyes|1|2617.4963|2024-01-21
+58|Persona Natural|Rosa Rodríguez Reyes|2|2617.4963|2024-02-21
+58|Persona Natural|Rosa Rodríguez Reyes|3|2617.4963|2024-03-21
+58|Persona Natural|Rosa Rodríguez Reyes|4|2617.4963|2024-04-21
+58|Persona Natural|Rosa Rodríguez Reyes|5|2617.4963|2024-05-21
+58|Persona Natural|Rosa Rodríguez Reyes|6|2617.4963|2024-06-21
+58|Persona Natural|Rosa Rodríguez Reyes|7|2617.4963|2024-07-21
+58|Persona Natural|Rosa Rodríguez Reyes|8|2617.4963|2024-08-21
+58|Persona Natural|Rosa Rodríguez Reyes|9|2617.4963|2024-09-21
+58|Persona Natural|Rosa Rodríguez Reyes|10|2617.4963|2024-10-21
+58|Persona Natural|Rosa Rodríguez Reyes|11|2617.4963|2024-11-21
+58|Persona Natural|Rosa Rodríguez Reyes|12|2617.4963|2024-12-21
+118|Persona Natural|Sara González Vásquez|1|8236.4613|2023-10-07
+118|Persona Natural|Sara González Vásquez|2|8236.4613|2023-11-07
+118|Persona Natural|Sara González Vásquez|3|8236.4613|2023-12-07
+118|Persona Natural|Sara González Vásquez|4|8236.4613|2024-01-07
+118|Persona Natural|Sara González Vásquez|5|8236.4613|2024-02-07
+118|Persona Natural|Sara González Vásquez|6|8236.4613|2024-03-07
+118|Persona Natural|Sara González Vásquez|7|8236.4613|2024-04-07
+118|Persona Natural|Sara González Vásquez|8|8236.4613|2024-05-07
+118|Persona Natural|Sara González Vásquez|9|8236.4613|2024-06-07
+118|Persona Natural|Sara González Vásquez|10|8236.4613|2024-07-07
+118|Persona Natural|Sara González Vásquez|11|8236.4613|2024-08-07
+118|Persona Natural|Sara González Vásquez|12|8236.4613|2024-09-07
+137|Persona Natural|Sara González Vásquez|1|4731.227|2023-03-16
+137|Persona Natural|Sara González Vásquez|2|4731.227|2023-04-16
+137|Persona Natural|Sara González Vásquez|3|4731.227|2023-05-16
+137|Persona Natural|Sara González Vásquez|4|4731.227|2023-06-16
+137|Persona Natural|Sara González Vásquez|5|4731.227|2023-07-16
+137|Persona Natural|Sara González Vásquez|6|4731.227|2023-08-16
+137|Persona Natural|Sara González Vásquez|7|4731.227|2023-09-16
+137|Persona Natural|Sara González Vásquez|8|4731.227|2023-10-16
+137|Persona Natural|Sara González Vásquez|9|4731.227|2023-11-16
+137|Persona Natural|Sara González Vásquez|10|4731.227|2023-12-16
+137|Persona Natural|Sara González Vásquez|11|4731.227|2024-01-16
+137|Persona Natural|Sara González Vásquez|12|4731.227|2024-02-16
+137|Persona Natural|Sara González Vásquez|13|4731.227|2024-03-16
+137|Persona Natural|Sara González Vásquez|14|4731.227|2024-04-16
+137|Persona Natural|Sara González Vásquez|15|4731.227|2024-05-16
+137|Persona Natural|Sara González Vásquez|16|4731.227|2024-06-16
+137|Persona Natural|Sara González Vásquez|17|4731.227|2024-07-16
+137|Persona Natural|Sara González Vásquez|18|4731.227|2024-08-16
+137|Persona Natural|Sara González Vásquez|19|4731.227|2024-09-16
+137|Persona Natural|Sara González Vásquez|20|4731.227|2024-10-16
+137|Persona Natural|Sara González Vásquez|21|4731.227|2024-11-16
+137|Persona Natural|Sara González Vásquez|22|4731.227|2024-12-16
+100|Persona Jurídica|Sigma Importaciones|1|5575.4168|2023-05-13
+100|Persona Jurídica|Sigma Importaciones|2|5575.4168|2023-06-13
+100|Persona Jurídica|Sigma Importaciones|3|5575.4168|2023-07-13
+100|Persona Jurídica|Sigma Importaciones|4|5575.4168|2023-08-13
+100|Persona Jurídica|Sigma Importaciones|5|5575.4168|2023-09-13
+100|Persona Jurídica|Sigma Importaciones|6|5575.4168|2023-10-13
+100|Persona Jurídica|Sigma Importaciones|7|5575.4168|2023-11-13
+100|Persona Jurídica|Sigma Importaciones|8|5575.4168|2023-12-13
+100|Persona Jurídica|Sigma Importaciones|9|5575.4168|2024-01-13
+100|Persona Jurídica|Sigma Importaciones|10|5575.4168|2024-02-13
+100|Persona Jurídica|Sigma Importaciones|11|5575.4168|2024-03-13
+100|Persona Jurídica|Sigma Importaciones|12|5575.4168|2024-04-13
+100|Persona Jurídica|Sigma Importaciones|13|5575.4168|2024-05-13
+100|Persona Jurídica|Sigma Importaciones|14|5575.4168|2024-06-13
+100|Persona Jurídica|Sigma Importaciones|15|5575.4168|2024-07-13
+100|Persona Jurídica|Sigma Importaciones|16|5575.4168|2024-08-13
+100|Persona Jurídica|Sigma Importaciones|17|5575.4168|2024-09-13
+100|Persona Jurídica|Sigma Importaciones|18|5575.4168|2024-10-13
+100|Persona Jurídica|Sigma Importaciones|19|5575.4168|2024-11-13
+100|Persona Jurídica|Sigma Importaciones|20|5575.4168|2024-12-13
+104|Persona Jurídica|Sigma Importaciones|1|3701.0072|2023-04-14
+104|Persona Jurídica|Sigma Importaciones|2|3701.0072|2023-05-14
+104|Persona Jurídica|Sigma Importaciones|3|3701.0072|2023-06-14
+104|Persona Jurídica|Sigma Importaciones|4|3701.0072|2023-07-14
+104|Persona Jurídica|Sigma Importaciones|5|3701.0072|2023-08-14
+104|Persona Jurídica|Sigma Importaciones|6|3701.0072|2023-09-14
+104|Persona Jurídica|Sigma Importaciones|7|3701.0072|2023-10-14
+104|Persona Jurídica|Sigma Importaciones|8|3701.0072|2023-11-14
+104|Persona Jurídica|Sigma Importaciones|9|3701.0072|2023-12-14
+104|Persona Jurídica|Sigma Importaciones|10|3701.0072|2024-01-14
+104|Persona Jurídica|Sigma Importaciones|11|3701.0072|2024-02-14
+104|Persona Jurídica|Sigma Importaciones|12|3701.0072|2024-03-14
+104|Persona Jurídica|Sigma Importaciones|13|3701.0072|2024-04-14
+104|Persona Jurídica|Sigma Importaciones|14|3701.0072|2024-05-14
+104|Persona Jurídica|Sigma Importaciones|15|3701.0072|2024-06-14
+104|Persona Jurídica|Sigma Importaciones|16|3701.0072|2024-07-14
+104|Persona Jurídica|Sigma Importaciones|17|3701.0072|2024-08-14
+104|Persona Jurídica|Sigma Importaciones|18|3701.0072|2024-09-14
+104|Persona Jurídica|Sigma Importaciones|19|3701.0072|2024-10-14
+104|Persona Jurídica|Sigma Importaciones|20|3701.0072|2024-11-14
+104|Persona Jurídica|Sigma Importaciones|21|3701.0072|2024-12-14
+129|Persona Jurídica|Sigma Importaciones|1|4470.901|2024-09-22
+129|Persona Jurídica|Sigma Importaciones|2|4470.901|2024-10-22
+129|Persona Jurídica|Sigma Importaciones|3|4470.901|2024-11-22
+129|Persona Jurídica|Sigma Importaciones|4|4470.901|2024-12-22
+143|Persona Jurídica|Sigma Importaciones|1|293.1035|2024-10-25
+143|Persona Jurídica|Sigma Importaciones|2|293.1035|2024-11-25
+143|Persona Jurídica|Sigma Importaciones|3|293.1035|2024-12-25
+75|Persona Natural|Susana Ramírez Lopez|1|3219.6454|2024-12-18
+107|Persona Jurídica|Theta Innovaciones|1|4989.5692|2024-05-23
+107|Persona Jurídica|Theta Innovaciones|2|4989.5692|2024-06-23
+107|Persona Jurídica|Theta Innovaciones|3|4989.5692|2024-07-23
+107|Persona Jurídica|Theta Innovaciones|4|4989.5692|2024-08-23
+107|Persona Jurídica|Theta Innovaciones|5|4989.5692|2024-09-23
+107|Persona Jurídica|Theta Innovaciones|6|4989.5692|2024-10-23
+107|Persona Jurídica|Theta Innovaciones|7|4989.5692|2024-11-23
+107|Persona Jurídica|Theta Innovaciones|8|4989.5692|2024-12-23
+123|Persona Jurídica|Theta Innovaciones|1|3935.4745|2024-03-01
+123|Persona Jurídica|Theta Innovaciones|2|3935.4745|2024-04-01
+123|Persona Jurídica|Theta Innovaciones|3|3935.4745|2024-05-01
+123|Persona Jurídica|Theta Innovaciones|4|3935.4745|2024-06-01
+123|Persona Jurídica|Theta Innovaciones|5|3935.4745|2024-07-01
+123|Persona Jurídica|Theta Innovaciones|6|3935.4745|2024-08-01
+123|Persona Jurídica|Theta Innovaciones|7|3935.4745|2024-09-01
+123|Persona Jurídica|Theta Innovaciones|8|3935.4745|2024-10-01
+123|Persona Jurídica|Theta Innovaciones|9|3935.4745|2024-11-01
+123|Persona Jurídica|Theta Innovaciones|10|3935.4745|2024-12-01
+123|Persona Jurídica|Theta Innovaciones|11|3935.4745|2025-01-01
+56|Persona Natural|Verónica Sánchez Gómez|1|1430.8854|2023-12-16
+56|Persona Natural|Verónica Sánchez Gómez|2|1430.8854|2024-01-16
+56|Persona Natural|Verónica Sánchez Gómez|3|1430.8854|2024-02-16
+56|Persona Natural|Verónica Sánchez Gómez|4|1430.8854|2024-03-16
+56|Persona Natural|Verónica Sánchez Gómez|5|1430.8854|2024-04-16
+56|Persona Natural|Verónica Sánchez Gómez|6|1430.8854|2024-05-16
+56|Persona Natural|Verónica Sánchez Gómez|7|1430.8854|2024-06-16
+56|Persona Natural|Verónica Sánchez Gómez|8|1430.8854|2024-07-16
+56|Persona Natural|Verónica Sánchez Gómez|9|1430.8854|2024-08-16
+56|Persona Natural|Verónica Sánchez Gómez|10|1430.8854|2024-09-16
+56|Persona Natural|Verónica Sánchez Gómez|11|1430.8854|2024-10-16
+56|Persona Natural|Verónica Sánchez Gómez|12|1430.8854|2024-11-16
+56|Persona Natural|Verónica Sánchez Gómez|13|1430.8854|2024-12-16
+142|Persona Natural|Verónica Sánchez Gómez|1|571.9054|2024-05-07
+142|Persona Natural|Verónica Sánchez Gómez|2|571.9054|2024-06-07
+142|Persona Natural|Verónica Sánchez Gómez|3|571.9054|2024-07-07
+142|Persona Natural|Verónica Sánchez Gómez|4|571.9054|2024-08-07
+142|Persona Natural|Verónica Sánchez Gómez|5|571.9054|2024-09-07
+142|Persona Natural|Verónica Sánchez Gómez|6|571.9054|2024-10-07
+142|Persona Natural|Verónica Sánchez Gómez|7|571.9054|2024-11-07
+142|Persona Natural|Verónica Sánchez Gómez|8|571.9054|2024-12-07
+95|Persona Natural|Víctor Martínez Díaz|1|5264.5017|2024-12-12
+134|Persona Jurídica|Xi Consultoría|1|4994.1832|2024-01-13
+134|Persona Jurídica|Xi Consultoría|2|4994.1832|2024-02-13
+134|Persona Jurídica|Xi Consultoría|3|4994.1832|2024-03-13
+134|Persona Jurídica|Xi Consultoría|4|4994.1832|2024-04-13
+134|Persona Jurídica|Xi Consultoría|5|4994.1832|2024-05-13
+134|Persona Jurídica|Xi Consultoría|6|4994.1832|2024-06-13
+134|Persona Jurídica|Xi Consultoría|7|4994.1832|2024-07-13
+134|Persona Jurídica|Xi Consultoría|8|4994.1832|2024-08-13
+134|Persona Jurídica|Xi Consultoría|9|4994.1832|2024-09-13
+134|Persona Jurídica|Xi Consultoría|10|4994.1832|2024-10-13
+134|Persona Jurídica|Xi Consultoría|11|4994.1832|2024-11-13
+134|Persona Jurídica|Xi Consultoría|12|4994.1832|2024-12-13
+132|Persona Jurídica|Zeta Consultores|1|3050.8283|2023-10-15
+132|Persona Jurídica|Zeta Consultores|2|3050.8283|2023-11-15
+132|Persona Jurídica|Zeta Consultores|3|3050.8283|2023-12-15
+132|Persona Jurídica|Zeta Consultores|4|3050.8283|2024-01-15
+132|Persona Jurídica|Zeta Consultores|5|3050.8283|2024-02-15
+132|Persona Jurídica|Zeta Consultores|6|3050.8283|2024-03-15
+132|Persona Jurídica|Zeta Consultores|7|3050.8283|2024-04-15
+132|Persona Jurídica|Zeta Consultores|8|3050.8283|2024-05-15
+132|Persona Jurídica|Zeta Consultores|9|3050.8283|2024-06-15
+132|Persona Jurídica|Zeta Consultores|10|3050.8283|2024-07-15
+132|Persona Jurídica|Zeta Consultores|11|3050.8283|2024-08-15
+132|Persona Jurídica|Zeta Consultores|12|3050.8283|2024-09-15
+132|Persona Jurídica|Zeta Consultores|13|3050.8283|2024-10-15
+132|Persona Jurídica|Zeta Consultores|14|3050.8283|2024-11-15
+132|Persona Jurídica|Zeta Consultores|15|3050.8283|2024-12-15
+ID Préstamo|Tipo Cliente|Cliente|numero_cuota|monto_pendiente|fecha_vencimiento
+116|Persona Natural|Alberto Sánchez Lozano|1|3021.9629|2024-09-25
+116|Persona Natural|Alberto Sánchez Lozano|2|3021.9629|2024-10-25
+116|Persona Natural|Alberto Sánchez Lozano|3|3021.9629|2024-11-25
+116|Persona Natural|Alberto Sánchez Lozano|4|3021.9629|2024-12-25
+102|Persona Natural|Alejandro Sánchez Jiménez|1|2896.0139|2024-09-26
+102|Persona Natural|Alejandro Sánchez Jiménez|2|2896.0139|2024-10-26
+102|Persona Natural|Alejandro Sánchez Jiménez|3|2896.0139|2024-11-26
+102|Persona Natural|Alejandro Sánchez Jiménez|4|2896.0139|2024-12-26
+135|Persona Natural|Ana García Fernández|1|1344.5694|2023-07-23
+135|Persona Natural|Ana García Fernández|2|1344.5694|2023-08-23
+135|Persona Natural|Ana García Fernández|3|1344.5694|2023-09-23
+135|Persona Natural|Ana García Fernández|4|1344.5694|2023-10-23
+135|Persona Natural|Ana García Fernández|5|1344.5694|2023-11-23
+135|Persona Natural|Ana García Fernández|6|1344.5694|2023-12-23
+135|Persona Natural|Ana García Fernández|7|1344.5694|2024-01-23
+135|Persona Natural|Ana García Fernández|8|1344.5694|2024-02-23
+135|Persona Natural|Ana García Fernández|9|1344.5694|2024-03-23
+135|Persona Natural|Ana García Fernández|10|1344.5694|2024-04-23
+135|Persona Natural|Ana García Fernández|11|1344.5694|2024-05-23
+135|Persona Natural|Ana García Fernández|12|1344.5694|2024-06-23
+135|Persona Natural|Ana García Fernández|13|1344.5694|2024-07-23
+135|Persona Natural|Ana García Fernández|14|1344.5694|2024-08-23
+135|Persona Natural|Ana García Fernández|15|1344.5694|2024-09-23
+135|Persona Natural|Ana García Fernández|16|1344.5694|2024-10-23
+135|Persona Natural|Ana García Fernández|17|1344.5694|2024-11-23
+135|Persona Natural|Ana García Fernández|18|1344.5694|2024-12-23
+82|Persona Natural|Antonio Hernández Vega|1|5849.3275|2024-02-24
+82|Persona Natural|Antonio Hernández Vega|2|5849.3275|2024-03-24
+82|Persona Natural|Antonio Hernández Vega|3|5849.3275|2024-04-24
+82|Persona Natural|Antonio Hernández Vega|4|5849.3275|2024-05-24
+82|Persona Natural|Antonio Hernández Vega|5|5849.3275|2024-06-24
+82|Persona Natural|Antonio Hernández Vega|6|5849.3275|2024-07-24
+82|Persona Natural|Antonio Hernández Vega|7|5849.3275|2024-08-24
+82|Persona Natural|Antonio Hernández Vega|8|5849.3275|2024-09-24
+82|Persona Natural|Antonio Hernández Vega|9|5849.3275|2024-10-24
+82|Persona Natural|Antonio Hernández Vega|10|5849.3275|2024-11-24
+82|Persona Natural|Antonio Hernández Vega|11|5849.3275|2024-12-24
+94|Persona Jurídica|Beta Corp.|1|3051.573|2022-12-10
+94|Persona Jurídica|Beta Corp.|2|3051.573|2023-01-10
+94|Persona Jurídica|Beta Corp.|3|3051.573|2023-02-10
+94|Persona Jurídica|Beta Corp.|4|3051.573|2023-03-10
+94|Persona Jurídica|Beta Corp.|5|3051.573|2023-04-10
+94|Persona Jurídica|Beta Corp.|6|3051.573|2023-05-10
+94|Persona Jurídica|Beta Corp.|7|3051.573|2023-06-10
+94|Persona Jurídica|Beta Corp.|8|3051.573|2023-07-10
+94|Persona Jurídica|Beta Corp.|9|3051.573|2023-08-10
+94|Persona Jurídica|Beta Corp.|10|3051.573|2023-09-10
+94|Persona Jurídica|Beta Corp.|11|3051.573|2023-10-10
+94|Persona Jurídica|Beta Corp.|12|3051.573|2023-11-10
+94|Persona Jurídica|Beta Corp.|13|3051.573|2023-12-10
+94|Persona Jurídica|Beta Corp.|14|3051.573|2024-01-10
+94|Persona Jurídica|Beta Corp.|15|3051.573|2024-02-10
+94|Persona Jurídica|Beta Corp.|16|3051.573|2024-03-10
+94|Persona Jurídica|Beta Corp.|17|3051.573|2024-04-10
+94|Persona Jurídica|Beta Corp.|18|3051.573|2024-05-10
+94|Persona Jurídica|Beta Corp.|19|3051.573|2024-06-10
+94|Persona Jurídica|Beta Corp.|20|3051.573|2024-07-10
+94|Persona Jurídica|Beta Corp.|21|3051.573|2024-08-10
+94|Persona Jurídica|Beta Corp.|22|3051.573|2024-09-10
+94|Persona Jurídica|Beta Corp.|23|3051.573|2024-10-10
+94|Persona Jurídica|Beta Corp.|24|3051.573|2024-11-10
+94|Persona Jurídica|Beta Corp.|25|3051.573|2024-12-10
+99|Persona Jurídica|Beta Corp.|1|3610.0093|2023-01-19
+99|Persona Jurídica|Beta Corp.|2|3610.0093|2023-02-19
+99|Persona Jurídica|Beta Corp.|3|3610.0093|2023-03-19
+99|Persona Jurídica|Beta Corp.|4|3610.0093|2023-04-19
+99|Persona Jurídica|Beta Corp.|5|3610.0093|2023-05-19
+99|Persona Jurídica|Beta Corp.|6|3610.0093|2023-06-19
+99|Persona Jurídica|Beta Corp.|7|3610.0093|2023-07-19
+99|Persona Jurídica|Beta Corp.|8|3610.0093|2023-08-19
+99|Persona Jurídica|Beta Corp.|9|3610.0093|2023-09-19
+99|Persona Jurídica|Beta Corp.|10|3610.0093|2023-10-19
+99|Persona Jurídica|Beta Corp.|11|3610.0093|2023-11-19
+99|Persona Jurídica|Beta Corp.|12|3610.0093|2023-12-19
+99|Persona Jurídica|Beta Corp.|13|3610.0093|2024-01-19
+99|Persona Jurídica|Beta Corp.|14|3610.0093|2024-02-19
+99|Persona Jurídica|Beta Corp.|15|3610.0093|2024-03-19
+99|Persona Jurídica|Beta Corp.|16|3610.0093|2024-04-19
+99|Persona Jurídica|Beta Corp.|17|3610.0093|2024-05-19
+99|Persona Jurídica|Beta Corp.|18|3610.0093|2024-06-19
+99|Persona Jurídica|Beta Corp.|19|3610.0093|2024-07-19
+99|Persona Jurídica|Beta Corp.|20|3610.0093|2024-08-19
+99|Persona Jurídica|Beta Corp.|21|3610.0093|2024-09-19
+99|Persona Jurídica|Beta Corp.|22|3610.0093|2024-10-19
+99|Persona Jurídica|Beta Corp.|23|3610.0093|2024-11-19
+99|Persona Jurídica|Beta Corp.|24|3610.0093|2024-12-19
+73|Persona Jurídica|Beta Tech|1|2244.7531|2024-08-29
+73|Persona Jurídica|Beta Tech|2|2244.7531|2024-09-29
+73|Persona Jurídica|Beta Tech|3|2244.7531|2024-10-29
+73|Persona Jurídica|Beta Tech|4|2244.7531|2024-11-29
+73|Persona Jurídica|Beta Tech|5|2244.7531|2024-12-29
+97|Persona Jurídica|Beta Tech|1|4337.6331|2023-03-21
+97|Persona Jurídica|Beta Tech|2|4337.6331|2023-04-21
+97|Persona Jurídica|Beta Tech|3|4337.6331|2023-05-21
+97|Persona Jurídica|Beta Tech|4|4337.6331|2023-06-21
+97|Persona Jurídica|Beta Tech|5|4337.6331|2023-07-21
+97|Persona Jurídica|Beta Tech|6|4337.6331|2023-08-21
+97|Persona Jurídica|Beta Tech|7|4337.6331|2023-09-21
+97|Persona Jurídica|Beta Tech|8|4337.6331|2023-10-21
+97|Persona Jurídica|Beta Tech|9|4337.6331|2023-11-21
+97|Persona Jurídica|Beta Tech|10|4337.6331|2023-12-21
+97|Persona Jurídica|Beta Tech|11|4337.6331|2024-01-21
+97|Persona Jurídica|Beta Tech|12|4337.6331|2024-02-21
+97|Persona Jurídica|Beta Tech|13|4337.6331|2024-03-21
+97|Persona Jurídica|Beta Tech|14|4337.6331|2024-04-21
+97|Persona Jurídica|Beta Tech|15|4337.6331|2024-05-21
+97|Persona Jurídica|Beta Tech|16|4337.6331|2024-06-21
+97|Persona Jurídica|Beta Tech|17|4337.6331|2024-07-21
+97|Persona Jurídica|Beta Tech|18|4337.6331|2024-08-21
+97|Persona Jurídica|Beta Tech|19|4337.6331|2024-09-21
+97|Persona Jurídica|Beta Tech|20|4337.6331|2024-10-21
+97|Persona Jurídica|Beta Tech|21|4337.6331|2024-11-21
+97|Persona Jurídica|Beta Tech|22|4337.6331|2024-12-21
+120|Persona Natural|Carlos Hernández Gómez|1|3457.2697|2023-12-13
+120|Persona Natural|Carlos Hernández Gómez|2|3457.2697|2024-01-13
+120|Persona Natural|Carlos Hernández Gómez|3|3457.2697|2024-02-13
+120|Persona Natural|Carlos Hernández Gómez|4|3457.2697|2024-03-13
+120|Persona Natural|Carlos Hernández Gómez|5|3457.2697|2024-04-13
+120|Persona Natural|Carlos Hernández Gómez|6|3457.2697|2024-05-13
+120|Persona Natural|Carlos Hernández Gómez|7|3457.2697|2024-06-13
+120|Persona Natural|Carlos Hernández Gómez|8|3457.2697|2024-07-13
+120|Persona Natural|Carlos Hernández Gómez|9|3457.2697|2024-08-13
+120|Persona Natural|Carlos Hernández Gómez|10|3457.2697|2024-09-13
+120|Persona Natural|Carlos Hernández Gómez|11|3457.2697|2024-10-13
+120|Persona Natural|Carlos Hernández Gómez|12|3457.2697|2024-11-13
+120|Persona Natural|Carlos Hernández Gómez|13|3457.2697|2024-12-13
+74|Persona Jurídica|Chi Industrial|1|1928.6377|2023-08-03
+74|Persona Jurídica|Chi Industrial|2|1928.6377|2023-09-03
+74|Persona Jurídica|Chi Industrial|3|1928.6377|2023-10-03
+74|Persona Jurídica|Chi Industrial|4|1928.6377|2023-11-03
+74|Persona Jurídica|Chi Industrial|5|1928.6377|2023-12-03
+74|Persona Jurídica|Chi Industrial|6|1928.6377|2024-01-03
+74|Persona Jurídica|Chi Industrial|7|1928.6377|2024-02-03
+74|Persona Jurídica|Chi Industrial|8|1928.6377|2024-03-03
+74|Persona Jurídica|Chi Industrial|9|1928.6377|2024-04-03
+74|Persona Jurídica|Chi Industrial|10|1928.6377|2024-05-03
+74|Persona Jurídica|Chi Industrial|11|1928.6377|2024-06-03
+74|Persona Jurídica|Chi Industrial|12|1928.6377|2024-07-03
+74|Persona Jurídica|Chi Industrial|13|1928.6377|2024-08-03
+112|Persona Jurídica|Chi Industrial|1|1574.6739|2023-05-19
+112|Persona Jurídica|Chi Industrial|2|1574.6739|2023-06-19
+112|Persona Jurídica|Chi Industrial|3|1574.6739|2023-07-19
+112|Persona Jurídica|Chi Industrial|4|1574.6739|2023-08-19
+112|Persona Jurídica|Chi Industrial|5|1574.6739|2023-09-19
+112|Persona Jurídica|Chi Industrial|6|1574.6739|2023-10-19
+112|Persona Jurídica|Chi Industrial|7|1574.6739|2023-11-19
+112|Persona Jurídica|Chi Industrial|8|1574.6739|2023-12-19
+112|Persona Jurídica|Chi Industrial|9|1574.6739|2024-01-19
+112|Persona Jurídica|Chi Industrial|10|1574.6739|2024-02-19
+112|Persona Jurídica|Chi Industrial|11|1574.6739|2024-03-19
+112|Persona Jurídica|Chi Industrial|12|1574.6739|2024-04-19
+112|Persona Jurídica|Chi Industrial|13|1574.6739|2024-05-19
+112|Persona Jurídica|Chi Industrial|14|1574.6739|2024-06-19
+112|Persona Jurídica|Chi Industrial|15|1574.6739|2024-07-19
+63|Persona Natural|Claudia López González|1|563.3513|2024-08-23
+63|Persona Natural|Claudia López González|2|563.3513|2024-09-23
+63|Persona Natural|Claudia López González|3|563.3513|2024-10-23
+63|Persona Natural|Claudia López González|4|563.3513|2024-11-23
+63|Persona Natural|Claudia López González|5|563.3513|2024-12-23
+60|Persona Natural|Claudia Suárez Morales|1|2861.8856|2024-06-02
+60|Persona Natural|Claudia Suárez Morales|2|2861.8856|2024-07-02
+60|Persona Natural|Claudia Suárez Morales|3|2861.8856|2024-08-02
+60|Persona Natural|Claudia Suárez Morales|4|2861.8856|2024-09-02
+60|Persona Natural|Claudia Suárez Morales|5|2861.8856|2024-10-02
+60|Persona Natural|Claudia Suárez Morales|6|2861.8856|2024-11-02
+60|Persona Natural|Claudia Suárez Morales|7|2861.8856|2024-12-02
+60|Persona Natural|Claudia Suárez Morales|8|2861.8856|2025-01-02
+133|Persona Natural|Claudia Suárez Morales|1|10561.1094|2024-12-23
+77|Persona Natural|David Suárez García|1|2511.4537|2024-11-01
+77|Persona Natural|David Suárez García|2|2511.4537|2024-12-01
+77|Persona Natural|David Suárez García|3|2511.4537|2025-01-01
+117|Persona Natural|David Suárez García|1|4623.6302|2024-04-26
+117|Persona Natural|David Suárez García|2|4623.6302|2024-05-26
+117|Persona Natural|David Suárez García|3|4623.6302|2024-06-26
+117|Persona Natural|David Suárez García|4|4623.6302|2024-07-26
+117|Persona Natural|David Suárez García|5|4623.6302|2024-08-26
+117|Persona Natural|David Suárez García|6|4623.6302|2024-09-26
+117|Persona Natural|David Suárez García|7|4623.6302|2024-10-26
+117|Persona Natural|David Suárez García|8|4623.6302|2024-11-26
+117|Persona Natural|David Suárez García|9|4623.6302|2024-12-26
+138|Persona Natural|David Suárez García|1|1515.4681|2024-11-23
+138|Persona Natural|David Suárez García|2|1515.4681|2024-12-23
+78|Persona Jurídica|Delta Asesoría|1|4377.2388|2024-04-23
+78|Persona Jurídica|Delta Asesoría|2|4377.2388|2024-05-23
+78|Persona Jurídica|Delta Asesoría|3|4377.2388|2024-06-23
+78|Persona Jurídica|Delta Asesoría|4|4377.2388|2024-07-23
+78|Persona Jurídica|Delta Asesoría|5|4377.2388|2024-08-23
+78|Persona Jurídica|Delta Asesoría|6|4377.2388|2024-09-23
+78|Persona Jurídica|Delta Asesoría|7|4377.2388|2024-10-23
+78|Persona Jurídica|Delta Asesoría|8|4377.2388|2024-11-23
+78|Persona Jurídica|Delta Asesoría|9|4377.2388|2024-12-23
+141|Persona Jurídica|Delta y Asociados|1|2391.6423|2023-10-19
+141|Persona Jurídica|Delta y Asociados|2|2391.6423|2023-11-19
+141|Persona Jurídica|Delta y Asociados|3|2391.6423|2023-12-19
+141|Persona Jurídica|Delta y Asociados|4|2391.6423|2024-01-19
+141|Persona Jurídica|Delta y Asociados|5|2391.6423|2024-02-19
+141|Persona Jurídica|Delta y Asociados|6|2391.6423|2024-03-19
+141|Persona Jurídica|Delta y Asociados|7|2391.6423|2024-04-19
+141|Persona Jurídica|Delta y Asociados|8|2391.6423|2024-05-19
+141|Persona Jurídica|Delta y Asociados|9|2391.6423|2024-06-19
+141|Persona Jurídica|Delta y Asociados|10|2391.6423|2024-07-19
+141|Persona Jurídica|Delta y Asociados|11|2391.6423|2024-08-19
+141|Persona Jurídica|Delta y Asociados|12|2391.6423|2024-09-19
+141|Persona Jurídica|Delta y Asociados|13|2391.6423|2024-10-19
+141|Persona Jurídica|Delta y Asociados|14|2391.6423|2024-11-19
+141|Persona Jurídica|Delta y Asociados|15|2391.6423|2024-12-19
+144|Persona Jurídica|Empresa Alpha S.A.|1|1406.007|2023-03-15
+144|Persona Jurídica|Empresa Alpha S.A.|2|1406.007|2023-04-15
+144|Persona Jurídica|Empresa Alpha S.A.|3|1406.007|2023-05-15
+144|Persona Jurídica|Empresa Alpha S.A.|4|1406.007|2023-06-15
+144|Persona Jurídica|Empresa Alpha S.A.|5|1406.007|2023-07-15
+144|Persona Jurídica|Empresa Alpha S.A.|6|1406.007|2023-08-15
+144|Persona Jurídica|Empresa Alpha S.A.|7|1406.007|2023-09-15
+144|Persona Jurídica|Empresa Alpha S.A.|8|1406.007|2023-10-15
+144|Persona Jurídica|Empresa Alpha S.A.|9|1406.007|2023-11-15
+144|Persona Jurídica|Empresa Alpha S.A.|10|1406.007|2023-12-15
+144|Persona Jurídica|Empresa Alpha S.A.|11|1406.007|2024-01-15
+144|Persona Jurídica|Empresa Alpha S.A.|12|1406.007|2024-02-15
+144|Persona Jurídica|Empresa Alpha S.A.|13|1406.007|2024-03-15
+144|Persona Jurídica|Empresa Alpha S.A.|14|1406.007|2024-04-15
+144|Persona Jurídica|Empresa Alpha S.A.|15|1406.007|2024-05-15
+144|Persona Jurídica|Empresa Alpha S.A.|16|1406.007|2024-06-15
+144|Persona Jurídica|Empresa Alpha S.A.|17|1406.007|2024-07-15
+144|Persona Jurídica|Empresa Alpha S.A.|18|1406.007|2024-08-15
+144|Persona Jurídica|Empresa Alpha S.A.|19|1406.007|2024-09-15
+144|Persona Jurídica|Empresa Alpha S.A.|20|1406.007|2024-10-15
+144|Persona Jurídica|Empresa Alpha S.A.|21|1406.007|2024-11-15
+144|Persona Jurídica|Empresa Alpha S.A.|22|1406.007|2024-12-15
+79|Persona Jurídica|Epsilon Innovación|1|2959.1451|2023-07-21
+79|Persona Jurídica|Epsilon Innovación|2|2959.1451|2023-08-21
+79|Persona Jurídica|Epsilon Innovación|3|2959.1451|2023-09-21
+79|Persona Jurídica|Epsilon Innovación|4|2959.1451|2023-10-21
+79|Persona Jurídica|Epsilon Innovación|5|2959.1451|2023-11-21
+79|Persona Jurídica|Epsilon Innovación|6|2959.1451|2023-12-21
+79|Persona Jurídica|Epsilon Innovación|7|2959.1451|2024-01-21
+79|Persona Jurídica|Epsilon Innovación|8|2959.1451|2024-02-21
+79|Persona Jurídica|Epsilon Innovación|9|2959.1451|2024-03-21
+79|Persona Jurídica|Epsilon Innovación|10|2959.1451|2024-04-21
+79|Persona Jurídica|Epsilon Innovación|11|2959.1451|2024-05-21
+79|Persona Jurídica|Epsilon Innovación|12|2959.1451|2024-06-21
+79|Persona Jurídica|Epsilon Innovación|13|2959.1451|2024-07-21
+79|Persona Jurídica|Epsilon Innovación|14|2959.1451|2024-08-21
+79|Persona Jurídica|Epsilon Innovación|15|2959.1451|2024-09-21
+79|Persona Jurídica|Epsilon Innovación|16|2959.1451|2024-10-21
+79|Persona Jurídica|Epsilon Innovación|17|2959.1451|2024-11-21
+79|Persona Jurídica|Epsilon Innovación|18|2959.1451|2024-12-21
+68|Persona Jurídica|Epsilon Ltda.|1|6846.7043|2023-08-30
+68|Persona Jurídica|Epsilon Ltda.|2|6846.7043|2023-09-30
+68|Persona Jurídica|Epsilon Ltda.|3|6846.7043|2023-10-30
+68|Persona Jurídica|Epsilon Ltda.|4|6846.7043|2023-11-30
+68|Persona Jurídica|Epsilon Ltda.|5|6846.7043|2023-12-30
+68|Persona Jurídica|Epsilon Ltda.|6|6846.7043|2024-01-30
+68|Persona Jurídica|Epsilon Ltda.|7|6846.7043|2024-02-29
+68|Persona Jurídica|Epsilon Ltda.|8|6846.7043|2024-03-30
+68|Persona Jurídica|Epsilon Ltda.|9|6846.7043|2024-04-30
+68|Persona Jurídica|Epsilon Ltda.|10|6846.7043|2024-05-30
+68|Persona Jurídica|Epsilon Ltda.|11|6846.7043|2024-06-30
+68|Persona Jurídica|Epsilon Ltda.|12|6846.7043|2024-07-30
+105|Persona Natural|Felipe González Torres|1|1810.8938|2023-06-22
+105|Persona Natural|Felipe González Torres|2|1810.8938|2023-07-22
+105|Persona Natural|Felipe González Torres|3|1810.8938|2023-08-22
+105|Persona Natural|Felipe González Torres|4|1810.8938|2023-09-22
+105|Persona Natural|Felipe González Torres|5|1810.8938|2023-10-22
+105|Persona Natural|Felipe González Torres|6|1810.8938|2023-11-22
+105|Persona Natural|Felipe González Torres|7|1810.8938|2023-12-22
+105|Persona Natural|Felipe González Torres|8|1810.8938|2024-01-22
+105|Persona Natural|Felipe González Torres|9|1810.8938|2024-02-22
+105|Persona Natural|Felipe González Torres|10|1810.8938|2024-03-22
+105|Persona Natural|Felipe González Torres|11|1810.8938|2024-04-22
+105|Persona Natural|Felipe González Torres|12|1810.8938|2024-05-22
+105|Persona Natural|Felipe González Torres|13|1810.8938|2024-06-22
+105|Persona Natural|Felipe González Torres|14|1810.8938|2024-07-22
+105|Persona Natural|Felipe González Torres|15|1810.8938|2024-08-22
+105|Persona Natural|Felipe González Torres|16|1810.8938|2024-09-22
+105|Persona Natural|Felipe González Torres|17|1810.8938|2024-10-22
+105|Persona Natural|Felipe González Torres|18|1810.8938|2024-11-22
+105|Persona Natural|Felipe González Torres|19|1810.8938|2024-12-22
+110|Persona Natural|Felipe González Torres|1|4204.0005|2024-08-14
+110|Persona Natural|Felipe González Torres|2|4204.0005|2024-09-14
+110|Persona Natural|Felipe González Torres|3|4204.0005|2024-10-14
+110|Persona Natural|Felipe González Torres|4|4204.0005|2024-11-14
+110|Persona Natural|Felipe González Torres|5|4204.0005|2024-12-14
+84|Persona Natural|Francisco García Ramírez|1|940.2052|2023-08-19
+84|Persona Natural|Francisco García Ramírez|2|940.2052|2023-09-19
+84|Persona Natural|Francisco García Ramírez|3|940.2052|2023-10-19
+84|Persona Natural|Francisco García Ramírez|4|940.2052|2023-11-19
+84|Persona Natural|Francisco García Ramírez|5|940.2052|2023-12-19
+84|Persona Natural|Francisco García Ramírez|6|940.2052|2024-01-19
+84|Persona Natural|Francisco García Ramírez|7|940.2052|2024-02-19
+84|Persona Natural|Francisco García Ramírez|8|940.2052|2024-03-19
+84|Persona Natural|Francisco García Ramírez|9|940.2052|2024-04-19
+84|Persona Natural|Francisco García Ramírez|10|940.2052|2024-05-19
+84|Persona Natural|Francisco García Ramírez|11|940.2052|2024-06-19
+84|Persona Natural|Francisco García Ramírez|12|940.2052|2024-07-19
+84|Persona Natural|Francisco García Ramírez|13|940.2052|2024-08-19
+84|Persona Natural|Francisco García Ramírez|14|940.2052|2024-09-19
+84|Persona Natural|Francisco García Ramírez|15|940.2052|2024-10-19
+115|Persona Natural|Francisco García Ramírez|1|35.9107|2023-06-11
+115|Persona Natural|Francisco García Ramírez|2|35.9107|2023-07-11
+115|Persona Natural|Francisco García Ramírez|3|35.9107|2023-08-11
+115|Persona Natural|Francisco García Ramírez|4|35.9107|2023-09-11
+115|Persona Natural|Francisco García Ramírez|5|35.9107|2023-10-11
+115|Persona Natural|Francisco García Ramírez|6|35.9107|2023-11-11
+115|Persona Natural|Francisco García Ramírez|7|35.9107|2023-12-11
+115|Persona Natural|Francisco García Ramírez|8|35.9107|2024-01-11
+115|Persona Natural|Francisco García Ramírez|9|35.9107|2024-02-11
+115|Persona Natural|Francisco García Ramírez|10|35.9107|2024-03-11
+115|Persona Natural|Francisco García Ramírez|11|35.9107|2024-04-11
+115|Persona Natural|Francisco García Ramírez|12|35.9107|2024-05-11
+115|Persona Natural|Francisco García Ramírez|13|35.9107|2024-06-11
+115|Persona Natural|Francisco García Ramírez|14|35.9107|2024-07-11
+115|Persona Natural|Francisco García Ramírez|15|35.9107|2024-08-11
+115|Persona Natural|Francisco García Ramírez|16|35.9107|2024-09-11
+115|Persona Natural|Francisco García Ramírez|17|35.9107|2024-10-11
+115|Persona Natural|Francisco García Ramírez|18|35.9107|2024-11-11
+115|Persona Natural|Francisco García Ramírez|19|35.9107|2024-12-11
+80|Persona Natural|Francisco González Paredes|1|4289.0775|2024-08-07
+80|Persona Natural|Francisco González Paredes|2|4289.0775|2024-09-07
+80|Persona Natural|Francisco González Paredes|3|4289.0775|2024-10-07
+80|Persona Natural|Francisco González Paredes|4|4289.0775|2024-11-07
+80|Persona Natural|Francisco González Paredes|5|4289.0775|2024-12-07
+127|Persona Jurídica|Gamma Logística|1|326.2087|2023-05-23
+127|Persona Jurídica|Gamma Logística|2|326.2087|2023-06-23
+127|Persona Jurídica|Gamma Logística|3|326.2087|2023-07-23
+127|Persona Jurídica|Gamma Logística|4|326.2087|2023-08-23
+127|Persona Jurídica|Gamma Logística|5|326.2087|2023-09-23
+127|Persona Jurídica|Gamma Logística|6|326.2087|2023-10-23
+127|Persona Jurídica|Gamma Logística|7|326.2087|2023-11-23
+127|Persona Jurídica|Gamma Logística|8|326.2087|2023-12-23
+127|Persona Jurídica|Gamma Logística|9|326.2087|2024-01-23
+127|Persona Jurídica|Gamma Logística|10|326.2087|2024-02-23
+127|Persona Jurídica|Gamma Logística|11|326.2087|2024-03-23
+127|Persona Jurídica|Gamma Logística|12|326.2087|2024-04-23
+127|Persona Jurídica|Gamma Logística|13|326.2087|2024-05-23
+127|Persona Jurídica|Gamma Logística|14|326.2087|2024-06-23
+127|Persona Jurídica|Gamma Logística|15|326.2087|2024-07-23
+127|Persona Jurídica|Gamma Logística|16|326.2087|2024-08-23
+127|Persona Jurídica|Gamma Logística|17|326.2087|2024-09-23
+127|Persona Jurídica|Gamma Logística|18|326.2087|2024-10-23
+127|Persona Jurídica|Gamma Logística|19|326.2087|2024-11-23
+127|Persona Jurídica|Gamma Logística|20|326.2087|2024-12-23
+55|Persona Jurídica|Gamma S.R.L.|1|3287.2306|2024-03-15
+55|Persona Jurídica|Gamma S.R.L.|2|3287.2306|2024-04-15
+55|Persona Jurídica|Gamma S.R.L.|3|3287.2306|2024-05-15
+55|Persona Jurídica|Gamma S.R.L.|4|3287.2306|2024-06-15
+55|Persona Jurídica|Gamma S.R.L.|5|3287.2306|2024-07-15
+55|Persona Jurídica|Gamma S.R.L.|6|3287.2306|2024-08-15
+55|Persona Jurídica|Gamma S.R.L.|7|3287.2306|2024-09-15
+55|Persona Jurídica|Gamma S.R.L.|8|3287.2306|2024-10-15
+55|Persona Jurídica|Gamma S.R.L.|9|3287.2306|2024-11-15
+55|Persona Jurídica|Gamma S.R.L.|10|3287.2306|2024-12-15
+69|Persona Jurídica|Gamma S.R.L.|1|5295.8514|2024-01-06
+69|Persona Jurídica|Gamma S.R.L.|2|5295.8514|2024-02-06
+69|Persona Jurídica|Gamma S.R.L.|3|5295.8514|2024-03-06
+69|Persona Jurídica|Gamma S.R.L.|4|5295.8514|2024-04-06
+69|Persona Jurídica|Gamma S.R.L.|5|5295.8514|2024-05-06
+69|Persona Jurídica|Gamma S.R.L.|6|5295.8514|2024-06-06
+69|Persona Jurídica|Gamma S.R.L.|7|5295.8514|2024-07-06
+69|Persona Jurídica|Gamma S.R.L.|8|5295.8514|2024-08-06
+69|Persona Jurídica|Gamma S.R.L.|9|5295.8514|2024-09-06
+69|Persona Jurídica|Gamma S.R.L.|10|5295.8514|2024-10-06
+69|Persona Jurídica|Gamma S.R.L.|11|5295.8514|2024-11-06
+69|Persona Jurídica|Gamma S.R.L.|12|5295.8514|2024-12-06
+69|Persona Jurídica|Gamma S.R.L.|13|5295.8514|2025-01-06
+98|Persona Jurídica|Iota Ingeniería S.A.C.|1|72.4065|2024-09-30
+98|Persona Jurídica|Iota Ingeniería S.A.C.|2|72.4065|2024-10-30
+98|Persona Jurídica|Iota Ingeniería S.A.C.|3|72.4065|2024-11-30
+98|Persona Jurídica|Iota Ingeniería S.A.C.|4|72.4065|2024-12-30
+114|Persona Natural|Isabel González Sánchez|1|625.5731|2023-02-08
+114|Persona Natural|Isabel González Sánchez|2|625.5731|2023-03-08
+114|Persona Natural|Isabel González Sánchez|3|625.5731|2023-04-08
+114|Persona Natural|Isabel González Sánchez|4|625.5731|2023-05-08
+114|Persona Natural|Isabel González Sánchez|5|625.5731|2023-06-08
+114|Persona Natural|Isabel González Sánchez|6|625.5731|2023-07-08
+114|Persona Natural|Isabel González Sánchez|7|625.5731|2023-08-08
+114|Persona Natural|Isabel González Sánchez|8|625.5731|2023-09-08
+114|Persona Natural|Isabel González Sánchez|9|625.5731|2023-10-08
+114|Persona Natural|Isabel González Sánchez|10|625.5731|2023-11-08
+114|Persona Natural|Isabel González Sánchez|11|625.5731|2023-12-08
+114|Persona Natural|Isabel González Sánchez|12|625.5731|2024-01-08
+114|Persona Natural|Isabel González Sánchez|13|625.5731|2024-02-08
+114|Persona Natural|Isabel González Sánchez|14|625.5731|2024-03-08
+114|Persona Natural|Isabel González Sánchez|15|625.5731|2024-04-08
+114|Persona Natural|Isabel González Sánchez|16|625.5731|2024-05-08
+114|Persona Natural|Isabel González Sánchez|17|625.5731|2024-06-08
+114|Persona Natural|Isabel González Sánchez|18|625.5731|2024-07-08
+114|Persona Natural|Isabel González Sánchez|19|625.5731|2024-08-08
+114|Persona Natural|Isabel González Sánchez|20|625.5731|2024-09-08
+114|Persona Natural|Isabel González Sánchez|21|625.5731|2024-10-08
+114|Persona Natural|Isabel González Sánchez|22|625.5731|2024-11-08
+114|Persona Natural|Isabel González Sánchez|23|625.5731|2024-12-08
+126|Persona Natural|Javier García Torres|1|2643.2553|2023-11-01
+126|Persona Natural|Javier García Torres|2|2643.2553|2023-12-01
+126|Persona Natural|Javier García Torres|3|2643.2553|2024-01-01
+126|Persona Natural|Javier García Torres|4|2643.2553|2024-02-01
+126|Persona Natural|Javier García Torres|5|2643.2553|2024-03-01
+126|Persona Natural|Javier García Torres|6|2643.2553|2024-04-01
+126|Persona Natural|Javier García Torres|7|2643.2553|2024-05-01
+126|Persona Natural|Javier García Torres|8|2643.2553|2024-06-01
+126|Persona Natural|Javier García Torres|9|2643.2553|2024-07-01
+126|Persona Natural|Javier García Torres|10|2643.2553|2024-08-01
+126|Persona Natural|Javier García Torres|11|2643.2553|2024-09-01
+126|Persona Natural|Javier García Torres|12|2643.2553|2024-10-01
+126|Persona Natural|Javier García Torres|13|2643.2553|2024-11-01
+126|Persona Natural|Javier García Torres|14|2643.2553|2024-12-01
+126|Persona Natural|Javier García Torres|15|2643.2553|2025-01-01
+64|Persona Natural|Jessica González Sánchez|1|2684.7692|2024-11-18
+64|Persona Natural|Jessica González Sánchez|2|2684.7692|2024-12-18
+101|Persona Natural|Jessica González Sánchez|1|6801.249|2023-06-13
+101|Persona Natural|Jessica González Sánchez|2|6801.249|2023-07-13
+101|Persona Natural|Jessica González Sánchez|3|6801.249|2023-08-13
+101|Persona Natural|Jessica González Sánchez|4|6801.249|2023-09-13
+101|Persona Natural|Jessica González Sánchez|5|6801.249|2023-10-13
+101|Persona Natural|Jessica González Sánchez|6|6801.249|2023-11-13
+101|Persona Natural|Jessica González Sánchez|7|6801.249|2023-12-13
+101|Persona Natural|Jessica González Sánchez|8|6801.249|2024-01-13
+101|Persona Natural|Jessica González Sánchez|9|6801.249|2024-02-13
+101|Persona Natural|Jessica González Sánchez|10|6801.249|2024-03-13
+101|Persona Natural|Jessica González Sánchez|11|6801.249|2024-04-13
+101|Persona Natural|Jessica González Sánchez|12|6801.249|2024-05-13
+70|Persona Natural|Jessica Suárez Medina|1|3380.9789|2023-05-14
+70|Persona Natural|Jessica Suárez Medina|2|3380.9789|2023-06-14
+70|Persona Natural|Jessica Suárez Medina|3|3380.9789|2023-07-14
+70|Persona Natural|Jessica Suárez Medina|4|3380.9789|2023-08-14
+70|Persona Natural|Jessica Suárez Medina|5|3380.9789|2023-09-14
+70|Persona Natural|Jessica Suárez Medina|6|3380.9789|2023-10-14
+70|Persona Natural|Jessica Suárez Medina|7|3380.9789|2023-11-14
+70|Persona Natural|Jessica Suárez Medina|8|3380.9789|2023-12-14
+70|Persona Natural|Jessica Suárez Medina|9|3380.9789|2024-01-14
+70|Persona Natural|Jessica Suárez Medina|10|3380.9789|2024-02-14
+70|Persona Natural|Jessica Suárez Medina|11|3380.9789|2024-03-14
+70|Persona Natural|Jessica Suárez Medina|12|3380.9789|2024-04-14
+70|Persona Natural|Jessica Suárez Medina|13|3380.9789|2024-05-14
+70|Persona Natural|Jessica Suárez Medina|14|3380.9789|2024-06-14
+70|Persona Natural|Jessica Suárez Medina|15|3380.9789|2024-07-14
+70|Persona Natural|Jessica Suárez Medina|16|3380.9789|2024-08-14
+70|Persona Natural|Jessica Suárez Medina|17|3380.9789|2024-09-14
+70|Persona Natural|Jessica Suárez Medina|18|3380.9789|2024-10-14
+70|Persona Natural|Jessica Suárez Medina|19|3380.9789|2024-11-14
+70|Persona Natural|Jessica Suárez Medina|20|3380.9789|2024-12-14
+76|Persona Natural|Jessica Suárez Medina|1|6918.9079|2024-06-25
+76|Persona Natural|Jessica Suárez Medina|2|6918.9079|2024-07-25
+76|Persona Natural|Jessica Suárez Medina|3|6918.9079|2024-08-25
+76|Persona Natural|Jessica Suárez Medina|4|6918.9079|2024-09-25
+76|Persona Natural|Jessica Suárez Medina|5|6918.9079|2024-10-25
+76|Persona Natural|Jessica Suárez Medina|6|6918.9079|2024-11-25
+76|Persona Natural|Jessica Suárez Medina|7|6918.9079|2024-12-25
+86|Persona Jurídica|JKC Tecnología e Información|1|21.7518|2024-06-28
+86|Persona Jurídica|JKC Tecnología e Información|2|21.7518|2024-07-28
+86|Persona Jurídica|JKC Tecnología e Información|3|21.7518|2024-08-28
+86|Persona Jurídica|JKC Tecnología e Información|4|21.7518|2024-09-28
+86|Persona Jurídica|JKC Tecnología e Información|5|21.7518|2024-10-28
+86|Persona Jurídica|JKC Tecnología e Información|6|21.7518|2024-11-28
+86|Persona Jurídica|JKC Tecnología e Información|7|21.7518|2024-12-28
+93|Persona Jurídica|JKC Tecnología e Información|1|4439.2686|2024-04-05
+93|Persona Jurídica|JKC Tecnología e Información|2|4439.2686|2024-05-05
+93|Persona Jurídica|JKC Tecnología e Información|3|4439.2686|2024-06-05
+93|Persona Jurídica|JKC Tecnología e Información|4|4439.2686|2024-07-05
+93|Persona Jurídica|JKC Tecnología e Información|5|4439.2686|2024-08-05
+93|Persona Jurídica|JKC Tecnología e Información|6|4439.2686|2024-09-05
+93|Persona Jurídica|JKC Tecnología e Información|7|4439.2686|2024-10-05
+93|Persona Jurídica|JKC Tecnología e Información|8|4439.2686|2024-11-05
+93|Persona Jurídica|JKC Tecnología e Información|9|4439.2686|2024-12-05
+93|Persona Jurídica|JKC Tecnología e Información|10|4439.2686|2025-01-05
+139|Persona Jurídica|JKC Tecnología e Información|1|114.161|2024-05-19
+139|Persona Jurídica|JKC Tecnología e Información|2|114.161|2024-06-19
+139|Persona Jurídica|JKC Tecnología e Información|3|114.161|2024-07-19
+139|Persona Jurídica|JKC Tecnología e Información|4|114.161|2024-08-19
+139|Persona Jurídica|JKC Tecnología e Información|5|114.161|2024-09-19
+139|Persona Jurídica|JKC Tecnología e Información|6|114.161|2024-10-19
+139|Persona Jurídica|JKC Tecnología e Información|7|114.161|2024-11-19
+139|Persona Jurídica|JKC Tecnología e Información|8|114.161|2024-12-19
+52|Persona Natural|José López Pérez|1|468.4167|2023-03-10
+52|Persona Natural|José López Pérez|3|1468.4167|2023-05-10
+52|Persona Natural|José López Pérez|4|1468.4167|2023-06-10
+52|Persona Natural|José López Pérez|5|1468.4167|2023-07-10
+52|Persona Natural|José López Pérez|6|1468.4167|2023-08-10
+52|Persona Natural|José López Pérez|7|1468.4167|2023-09-10
+52|Persona Natural|José López Pérez|8|1468.4167|2023-10-10
+52|Persona Natural|José López Pérez|9|1468.4167|2023-11-10
+52|Persona Natural|José López Pérez|10|1468.4167|2023-12-10
+52|Persona Natural|José López Pérez|11|1468.4167|2024-01-10
+52|Persona Natural|José López Pérez|12|1468.4167|2024-02-10
+52|Persona Natural|José López Pérez|13|1468.4167|2024-03-10
+52|Persona Natural|José López Pérez|14|1468.4167|2024-04-10
+52|Persona Natural|José López Pérez|15|1468.4167|2024-05-10
+52|Persona Natural|José López Pérez|16|1468.4167|2024-06-10
+52|Persona Natural|José López Pérez|17|1468.4167|2024-07-10
+52|Persona Natural|José López Pérez|18|1468.4167|2024-08-10
+52|Persona Natural|José López Pérez|19|1468.4167|2024-09-10
+52|Persona Natural|José López Pérez|20|1468.4167|2024-10-10
+52|Persona Natural|José López Pérez|21|1468.4167|2024-11-10
+52|Persona Natural|José López Pérez|22|1468.4167|2024-12-10
+62|Persona Natural|José López Pérez|1|852.4986|2024-10-25
+62|Persona Natural|José López Pérez|2|852.4986|2024-11-25
+62|Persona Natural|José López Pérez|3|852.4986|2024-12-25
+106|Persona Natural|José López Suárez|1|2379.5395|2023-02-25
+106|Persona Natural|José López Suárez|2|2379.5395|2023-03-25
+106|Persona Natural|José López Suárez|3|2379.5395|2023-04-25
+106|Persona Natural|José López Suárez|4|2379.5395|2023-05-25
+106|Persona Natural|José López Suárez|5|2379.5395|2023-06-25
+106|Persona Natural|José López Suárez|6|2379.5395|2023-07-25
+106|Persona Natural|José López Suárez|7|2379.5395|2023-08-25
+106|Persona Natural|José López Suárez|8|2379.5395|2023-09-25
+106|Persona Natural|José López Suárez|9|2379.5395|2023-10-25
+106|Persona Natural|José López Suárez|10|2379.5395|2023-11-25
+106|Persona Natural|José López Suárez|11|2379.5395|2023-12-25
+106|Persona Natural|José López Suárez|12|2379.5395|2024-01-25
+106|Persona Natural|José López Suárez|13|2379.5395|2024-02-25
+106|Persona Natural|José López Suárez|14|2379.5395|2024-03-25
+106|Persona Natural|José López Suárez|15|2379.5395|2024-04-25
+106|Persona Natural|José López Suárez|16|2379.5395|2024-05-25
+106|Persona Natural|José López Suárez|17|2379.5395|2024-06-25
+106|Persona Natural|José López Suárez|18|2379.5395|2024-07-25
+106|Persona Natural|José López Suárez|19|2379.5395|2024-08-25
+106|Persona Natural|José López Suárez|20|2379.5395|2024-09-25
+106|Persona Natural|José López Suárez|21|2379.5395|2024-10-25
+92|Persona Natural|Juan Alvarez Lopez|1|2790.3217|2023-01-24
+92|Persona Natural|Juan Alvarez Lopez|2|2790.3217|2023-02-24
+92|Persona Natural|Juan Alvarez Lopez|3|2790.3217|2023-03-24
+92|Persona Natural|Juan Alvarez Lopez|4|2790.3217|2023-04-24
+92|Persona Natural|Juan Alvarez Lopez|5|2790.3217|2023-05-24
+92|Persona Natural|Juan Alvarez Lopez|6|2790.3217|2023-06-24
+92|Persona Natural|Juan Alvarez Lopez|7|2790.3217|2023-07-24
+92|Persona Natural|Juan Alvarez Lopez|8|2790.3217|2023-08-24
+92|Persona Natural|Juan Alvarez Lopez|9|2790.3217|2023-09-24
+92|Persona Natural|Juan Alvarez Lopez|10|2790.3217|2023-10-24
+92|Persona Natural|Juan Alvarez Lopez|11|2790.3217|2023-11-24
+92|Persona Natural|Juan Alvarez Lopez|12|2790.3217|2023-12-24
+136|Persona Natural|Juan Alvarez Lopez|1|10150.664|2023-10-21
+136|Persona Natural|Juan Alvarez Lopez|2|10150.664|2023-11-21
+136|Persona Natural|Juan Alvarez Lopez|3|10150.664|2023-12-21
+136|Persona Natural|Juan Alvarez Lopez|4|10150.664|2024-01-21
+136|Persona Natural|Juan Alvarez Lopez|5|10150.664|2024-02-21
+136|Persona Natural|Juan Alvarez Lopez|6|10150.664|2024-03-21
+136|Persona Natural|Juan Alvarez Lopez|7|10150.664|2024-04-21
+136|Persona Natural|Juan Alvarez Lopez|8|10150.664|2024-05-21
+136|Persona Natural|Juan Alvarez Lopez|9|10150.664|2024-06-21
+136|Persona Natural|Juan Alvarez Lopez|10|10150.664|2024-07-21
+136|Persona Natural|Juan Alvarez Lopez|11|10150.664|2024-08-21
+136|Persona Natural|Juan Alvarez Lopez|12|10150.664|2024-09-21
+136|Persona Natural|Juan Alvarez Lopez|13|10150.664|2024-10-21
+130|Persona Natural|Julia Martínez Cruz|1|1492.8914|2024-07-09
+130|Persona Natural|Julia Martínez Cruz|2|1492.8914|2024-08-09
+130|Persona Natural|Julia Martínez Cruz|3|1492.8914|2024-09-09
+130|Persona Natural|Julia Martínez Cruz|4|1492.8914|2024-10-09
+130|Persona Natural|Julia Martínez Cruz|5|1492.8914|2024-11-09
+130|Persona Natural|Julia Martínez Cruz|6|1492.8914|2024-12-09
+119|Persona Natural|Lucía Martínez González|1|6220.1136|2023-06-01
+119|Persona Natural|Lucía Martínez González|2|6220.1136|2023-07-01
+119|Persona Natural|Lucía Martínez González|3|6220.1136|2023-08-01
+119|Persona Natural|Lucía Martínez González|4|6220.1136|2023-09-01
+119|Persona Natural|Lucía Martínez González|5|6220.1136|2023-10-01
+119|Persona Natural|Lucía Martínez González|6|6220.1136|2023-11-01
+119|Persona Natural|Lucía Martínez González|7|6220.1136|2023-12-01
+119|Persona Natural|Lucía Martínez González|8|6220.1136|2024-01-01
+119|Persona Natural|Lucía Martínez González|9|6220.1136|2024-02-01
+119|Persona Natural|Lucía Martínez González|10|6220.1136|2024-03-01
+119|Persona Natural|Lucía Martínez González|11|6220.1136|2024-04-01
+119|Persona Natural|Lucía Martínez González|12|6220.1136|2024-05-01
+122|Persona Natural|Lucía Martínez González|1|485.5588|2024-05-09
+122|Persona Natural|Lucía Martínez González|2|485.5588|2024-06-09
+122|Persona Natural|Lucía Martínez González|3|485.5588|2024-07-09
+122|Persona Natural|Lucía Martínez González|4|485.5588|2024-08-09
+122|Persona Natural|Lucía Martínez González|5|485.5588|2024-09-09
+122|Persona Natural|Lucía Martínez González|6|485.5588|2024-10-09
+122|Persona Natural|Lucía Martínez González|7|485.5588|2024-11-09
+122|Persona Natural|Lucía Martínez González|8|485.5588|2024-12-09
+61|Persona Natural|Luis Rodríguez Lozano|1|400.5807|2022-12-18
+61|Persona Natural|Luis Rodríguez Lozano|2|400.5807|2023-01-18
+61|Persona Natural|Luis Rodríguez Lozano|3|400.5807|2023-02-18
+61|Persona Natural|Luis Rodríguez Lozano|4|400.5807|2023-03-18
+61|Persona Natural|Luis Rodríguez Lozano|5|400.5807|2023-04-18
+61|Persona Natural|Luis Rodríguez Lozano|6|400.5807|2023-05-18
+61|Persona Natural|Luis Rodríguez Lozano|7|400.5807|2023-06-18
+61|Persona Natural|Luis Rodríguez Lozano|8|400.5807|2023-07-18
+61|Persona Natural|Luis Rodríguez Lozano|9|400.5807|2023-08-18
+61|Persona Natural|Luis Rodríguez Lozano|10|400.5807|2023-09-18
+61|Persona Natural|Luis Rodríguez Lozano|11|400.5807|2023-10-18
+61|Persona Natural|Luis Rodríguez Lozano|12|400.5807|2023-11-18
+61|Persona Natural|Luis Rodríguez Lozano|13|400.5807|2023-12-18
+61|Persona Natural|Luis Rodríguez Lozano|14|400.5807|2024-01-18
+61|Persona Natural|Luis Rodríguez Lozano|15|400.5807|2024-02-18
+61|Persona Natural|Luis Rodríguez Lozano|16|400.5807|2024-03-18
+61|Persona Natural|Luis Rodríguez Lozano|17|400.5807|2024-04-18
+61|Persona Natural|Luis Rodríguez Lozano|18|400.5807|2024-05-18
+61|Persona Natural|Luis Rodríguez Lozano|19|400.5807|2024-06-18
+61|Persona Natural|Luis Rodríguez Lozano|20|400.5807|2024-07-18
+61|Persona Natural|Luis Rodríguez Lozano|21|400.5807|2024-08-18
+61|Persona Natural|Luis Rodríguez Lozano|22|400.5807|2024-09-18
+61|Persona Natural|Luis Rodríguez Lozano|23|400.5807|2024-10-18
+61|Persona Natural|Luis Rodríguez Lozano|24|400.5807|2024-11-18
+61|Persona Natural|Luis Rodríguez Lozano|25|400.5807|2024-12-18
+83|Persona Natural|Manuel Sánchez Pérez|1|1958.9912|2024-10-07
+83|Persona Natural|Manuel Sánchez Pérez|2|1958.9912|2024-11-07
+83|Persona Natural|Manuel Sánchez Pérez|3|1958.9912|2024-12-07
+113|Persona Natural|María Rodríguez López|1|3265.7755|2024-12-30
+128|Persona Natural|María Rodríguez López|1|1488.8514|2024-07-05
+128|Persona Natural|María Rodríguez López|2|1488.8514|2024-08-05
+128|Persona Natural|María Rodríguez López|3|1488.8514|2024-09-05
+128|Persona Natural|María Rodríguez López|4|1488.8514|2024-10-05
+128|Persona Natural|María Rodríguez López|5|1488.8514|2024-11-05
+128|Persona Natural|María Rodríguez López|6|1488.8514|2024-12-05
+128|Persona Natural|María Rodríguez López|7|1488.8514|2025-01-05
+71|Persona Natural|Marta Sánchez Torres|1|4894.6542|2023-02-18
+71|Persona Natural|Marta Sánchez Torres|2|4894.6542|2023-03-18
+71|Persona Natural|Marta Sánchez Torres|3|4894.6542|2023-04-18
+71|Persona Natural|Marta Sánchez Torres|4|4894.6542|2023-05-18
+71|Persona Natural|Marta Sánchez Torres|5|4894.6542|2023-06-18
+71|Persona Natural|Marta Sánchez Torres|6|4894.6542|2023-07-18
+71|Persona Natural|Marta Sánchez Torres|7|4894.6542|2023-08-18
+71|Persona Natural|Marta Sánchez Torres|8|4894.6542|2023-09-18
+71|Persona Natural|Marta Sánchez Torres|9|4894.6542|2023-10-18
+71|Persona Natural|Marta Sánchez Torres|10|4894.6542|2023-11-18
+71|Persona Natural|Marta Sánchez Torres|11|4894.6542|2023-12-18
+71|Persona Natural|Marta Sánchez Torres|12|4894.6542|2024-01-18
+71|Persona Natural|Marta Sánchez Torres|13|4894.6542|2024-02-18
+71|Persona Natural|Marta Sánchez Torres|14|4894.6542|2024-03-18
+71|Persona Natural|Marta Sánchez Torres|15|4894.6542|2024-04-18
+71|Persona Natural|Marta Sánchez Torres|16|4894.6542|2024-05-18
+71|Persona Natural|Marta Sánchez Torres|17|4894.6542|2024-06-18
+71|Persona Natural|Marta Sánchez Torres|18|4894.6542|2024-07-18
+54|Persona Natural|Martín Rodríguez Gómez|1|1347.1034|2024-10-05
+54|Persona Natural|Martín Rodríguez Gómez|2|1347.1034|2024-11-05
+54|Persona Natural|Martín Rodríguez Gómez|3|1347.1034|2024-12-05
+54|Persona Natural|Martín Rodríguez Gómez|4|1347.1034|2025-01-05
+87|Persona Jurídica|Mu Financiera|1|3036.3813|2024-11-23
+87|Persona Jurídica|Mu Financiera|2|3036.3813|2024-12-23
+121|Persona Jurídica|Mu Financiera|1|8954.4253|2024-02-21
+121|Persona Jurídica|Mu Financiera|2|8954.4253|2024-03-21
+121|Persona Jurídica|Mu Financiera|3|8954.4253|2024-04-21
+121|Persona Jurídica|Mu Financiera|4|8954.4253|2024-05-21
+121|Persona Jurídica|Mu Financiera|5|8954.4253|2024-06-21
+121|Persona Jurídica|Mu Financiera|6|8954.4253|2024-07-21
+121|Persona Jurídica|Mu Financiera|7|8954.4253|2024-08-21
+121|Persona Jurídica|Mu Financiera|8|8954.4253|2024-09-21
+121|Persona Jurídica|Mu Financiera|9|8954.4253|2024-10-21
+121|Persona Jurídica|Mu Financiera|10|8954.4253|2024-11-21
+121|Persona Jurídica|Mu Financiera|11|8954.4253|2024-12-21
+103|Persona Jurídica|Omega Global S.A.C.|1|5688.9064|2024-03-10
+103|Persona Jurídica|Omega Global S.A.C.|2|5688.9064|2024-04-10
+103|Persona Jurídica|Omega Global S.A.C.|3|5688.9064|2024-05-10
+103|Persona Jurídica|Omega Global S.A.C.|4|5688.9064|2024-06-10
+103|Persona Jurídica|Omega Global S.A.C.|5|5688.9064|2024-07-10
+103|Persona Jurídica|Omega Global S.A.C.|6|5688.9064|2024-08-10
+103|Persona Jurídica|Omega Global S.A.C.|7|5688.9064|2024-09-10
+103|Persona Jurídica|Omega Global S.A.C.|8|5688.9064|2024-10-10
+103|Persona Jurídica|Omega Global S.A.C.|9|5688.9064|2024-11-10
+103|Persona Jurídica|Omega Global S.A.C.|10|5688.9064|2024-12-10
+140|Persona Jurídica|Omega Global S.A.C.|1|349.3747|2024-01-15
+140|Persona Jurídica|Omega Global S.A.C.|2|349.3747|2024-02-15
+140|Persona Jurídica|Omega Global S.A.C.|3|349.3747|2024-03-15
+140|Persona Jurídica|Omega Global S.A.C.|4|349.3747|2024-04-15
+140|Persona Jurídica|Omega Global S.A.C.|5|349.3747|2024-05-15
+140|Persona Jurídica|Omega Global S.A.C.|6|349.3747|2024-06-15
+140|Persona Jurídica|Omega Global S.A.C.|7|349.3747|2024-07-15
+140|Persona Jurídica|Omega Global S.A.C.|8|349.3747|2024-08-15
+140|Persona Jurídica|Omega Global S.A.C.|9|349.3747|2024-09-15
+140|Persona Jurídica|Omega Global S.A.C.|10|349.3747|2024-10-15
+140|Persona Jurídica|Omega Global S.A.C.|11|349.3747|2024-11-15
+140|Persona Jurídica|Omega Global S.A.C.|12|349.3747|2024-12-15
+81|Persona Jurídica|Omicron Logística|1|5369.1628|2023-07-02
+81|Persona Jurídica|Omicron Logística|2|5369.1628|2023-08-02
+81|Persona Jurídica|Omicron Logística|3|5369.1628|2023-09-02
+81|Persona Jurídica|Omicron Logística|4|5369.1628|2023-10-02
+81|Persona Jurídica|Omicron Logística|5|5369.1628|2023-11-02
+81|Persona Jurídica|Omicron Logística|6|5369.1628|2023-12-02
+81|Persona Jurídica|Omicron Logística|7|5369.1628|2024-01-02
+81|Persona Jurídica|Omicron Logística|8|5369.1628|2024-02-02
+81|Persona Jurídica|Omicron Logística|9|5369.1628|2024-03-02
+81|Persona Jurídica|Omicron Logística|10|5369.1628|2024-04-02
+81|Persona Jurídica|Omicron Logística|11|5369.1628|2024-05-02
+81|Persona Jurídica|Omicron Logística|12|5369.1628|2024-06-02
+81|Persona Jurídica|Omicron Logística|13|5369.1628|2024-07-02
+81|Persona Jurídica|Omicron Logística|14|5369.1628|2024-08-02
+81|Persona Jurídica|Omicron Logística|15|5369.1628|2024-09-02
+81|Persona Jurídica|Omicron Logística|16|5369.1628|2024-10-02
+81|Persona Jurídica|Omicron Logística|17|5369.1628|2024-11-02
+81|Persona Jurídica|Omicron Logística|18|5369.1628|2024-12-02
+81|Persona Jurídica|Omicron Logística|19|5369.1628|2025-01-02
+59|Persona Natural|Oscar López Rivas|1|8892.6661|2023-05-08
+59|Persona Natural|Oscar López Rivas|2|8892.6661|2023-06-08
+59|Persona Natural|Oscar López Rivas|3|8892.6661|2023-07-08
+59|Persona Natural|Oscar López Rivas|4|8892.6661|2023-08-08
+59|Persona Natural|Oscar López Rivas|5|8892.6661|2023-09-08
+59|Persona Natural|Oscar López Rivas|6|8892.6661|2023-10-08
+59|Persona Natural|Oscar López Rivas|7|8892.6661|2023-11-08
+59|Persona Natural|Oscar López Rivas|8|8892.6661|2023-12-08
+59|Persona Natural|Oscar López Rivas|9|8892.6661|2024-01-08
+59|Persona Natural|Oscar López Rivas|10|8892.6661|2024-02-08
+59|Persona Natural|Oscar López Rivas|11|8892.6661|2024-03-08
+59|Persona Natural|Oscar López Rivas|12|8892.6661|2024-04-08
+59|Persona Natural|Oscar López Rivas|13|8892.6661|2024-05-08
+59|Persona Natural|Oscar López Rivas|14|8892.6661|2024-06-08
+59|Persona Natural|Oscar López Rivas|15|8892.6661|2024-07-08
+59|Persona Natural|Oscar López Rivas|16|8892.6661|2024-08-08
+59|Persona Natural|Oscar López Rivas|17|8892.6661|2024-09-08
+85|Persona Natural|Oscar López Rivas|1|1240.0052|2024-03-10
+85|Persona Natural|Oscar López Rivas|2|1240.0052|2024-04-10
+85|Persona Natural|Oscar López Rivas|3|1240.0052|2024-05-10
+85|Persona Natural|Oscar López Rivas|4|1240.0052|2024-06-10
+85|Persona Natural|Oscar López Rivas|5|1240.0052|2024-07-10
+85|Persona Natural|Oscar López Rivas|6|1240.0052|2024-08-10
+85|Persona Natural|Oscar López Rivas|7|1240.0052|2024-09-10
+85|Persona Natural|Oscar López Rivas|8|1240.0052|2024-10-10
+85|Persona Natural|Oscar López Rivas|9|1240.0052|2024-11-10
+85|Persona Natural|Oscar López Rivas|10|1240.0052|2024-12-10
+96|Persona Natural|Oscar López Rivas|1|8154.602|2022-12-21
+96|Persona Natural|Oscar López Rivas|2|8154.602|2023-01-21
+96|Persona Natural|Oscar López Rivas|3|8154.602|2023-02-21
+96|Persona Natural|Oscar López Rivas|4|8154.602|2023-03-21
+96|Persona Natural|Oscar López Rivas|5|8154.602|2023-04-21
+96|Persona Natural|Oscar López Rivas|6|8154.602|2023-05-21
+96|Persona Natural|Oscar López Rivas|7|8154.602|2023-06-21
+96|Persona Natural|Oscar López Rivas|8|8154.602|2023-07-21
+96|Persona Natural|Oscar López Rivas|9|8154.602|2023-08-21
+96|Persona Natural|Oscar López Rivas|10|8154.602|2023-09-21
+96|Persona Natural|Oscar López Rivas|11|8154.602|2023-10-21
+96|Persona Natural|Oscar López Rivas|12|8154.602|2023-11-21
+96|Persona Natural|Oscar López Rivas|13|8154.602|2023-12-21
+96|Persona Natural|Oscar López Rivas|14|8154.602|2024-01-21
+96|Persona Natural|Oscar López Rivas|15|8154.602|2024-02-21
+96|Persona Natural|Oscar López Rivas|16|8154.602|2024-03-21
+96|Persona Natural|Oscar López Rivas|17|8154.602|2024-04-21
+96|Persona Natural|Oscar López Rivas|18|8154.602|2024-05-21
+96|Persona Natural|Oscar López Rivas|19|8154.602|2024-06-21
+96|Persona Natural|Oscar López Rivas|20|8154.602|2024-07-21
+96|Persona Natural|Oscar López Rivas|21|8154.602|2024-08-21
+66|Persona Natural|Patricia González Martínez|1|227.1864|2023-01-03
+66|Persona Natural|Patricia González Martínez|2|227.1864|2023-02-03
+66|Persona Natural|Patricia González Martínez|3|227.1864|2023-03-03
+66|Persona Natural|Patricia González Martínez|4|227.1864|2023-04-03
+66|Persona Natural|Patricia González Martínez|5|227.1864|2023-05-03
+66|Persona Natural|Patricia González Martínez|6|227.1864|2023-06-03
+66|Persona Natural|Patricia González Martínez|7|227.1864|2023-07-03
+66|Persona Natural|Patricia González Martínez|8|227.1864|2023-08-03
+66|Persona Natural|Patricia González Martínez|9|227.1864|2023-09-03
+66|Persona Natural|Patricia González Martínez|10|227.1864|2023-10-03
+66|Persona Natural|Patricia González Martínez|11|227.1864|2023-11-03
+66|Persona Natural|Patricia González Martínez|12|227.1864|2023-12-03
+66|Persona Natural|Patricia González Martínez|13|227.1864|2024-01-03
+66|Persona Natural|Patricia González Martínez|14|227.1864|2024-02-03
+66|Persona Natural|Patricia González Martínez|15|227.1864|2024-03-03
+66|Persona Natural|Patricia González Martínez|16|227.1864|2024-04-03
+66|Persona Natural|Patricia González Martínez|17|227.1864|2024-05-03
+66|Persona Natural|Patricia González Martínez|18|227.1864|2024-06-03
+66|Persona Natural|Patricia González Martínez|19|227.1864|2024-07-03
+66|Persona Natural|Patricia González Martínez|20|227.1864|2024-08-03
+66|Persona Natural|Patricia González Martínez|21|227.1864|2024-09-03
+66|Persona Natural|Patricia González Martínez|22|227.1864|2024-10-03
+66|Persona Natural|Patricia González Martínez|23|227.1864|2024-11-03
+66|Persona Natural|Patricia González Martínez|24|227.1864|2024-12-03
+66|Persona Natural|Patricia González Martínez|25|227.1864|2025-01-03
+108|Persona Natural|Patricia González Martínez|1|1586.4251|2024-06-29
+108|Persona Natural|Patricia González Martínez|2|1586.4251|2024-07-29
+108|Persona Natural|Patricia González Martínez|3|1586.4251|2024-08-29
+108|Persona Natural|Patricia González Martínez|4|1586.4251|2024-09-29
+108|Persona Natural|Patricia González Martínez|5|1586.4251|2024-10-29
+108|Persona Natural|Patricia González Martínez|6|1586.4251|2024-11-29
+108|Persona Natural|Patricia González Martínez|7|1586.4251|2024-12-29
+124|Persona Natural|Patricia González Martínez|1|8157.3473|2024-10-14
+124|Persona Natural|Patricia González Martínez|2|8157.3473|2024-11-14
+124|Persona Natural|Patricia González Martínez|3|8157.3473|2024-12-14
+57|Persona Natural|Patricia González Navarro|1|4346.5366|2024-04-22
+57|Persona Natural|Patricia González Navarro|2|4346.5366|2024-05-22
+57|Persona Natural|Patricia González Navarro|3|4346.5366|2024-06-22
+57|Persona Natural|Patricia González Navarro|4|4346.5366|2024-07-22
+57|Persona Natural|Patricia González Navarro|5|4346.5366|2024-08-22
+57|Persona Natural|Patricia González Navarro|6|4346.5366|2024-09-22
+57|Persona Natural|Patricia González Navarro|7|4346.5366|2024-10-22
+57|Persona Natural|Patricia González Navarro|8|4346.5366|2024-11-22
+57|Persona Natural|Patricia González Navarro|9|4346.5366|2024-12-22
+65|Persona Natural|Patricia González Navarro|1|1311.7514|2024-07-22
+65|Persona Natural|Patricia González Navarro|2|1311.7514|2024-08-22
+65|Persona Natural|Patricia González Navarro|3|1311.7514|2024-09-22
+65|Persona Natural|Patricia González Navarro|4|1311.7514|2024-10-22
+65|Persona Natural|Patricia González Navarro|5|1311.7514|2024-11-22
+65|Persona Natural|Patricia González Navarro|6|1311.7514|2024-12-22
+67|Persona Natural|Patricia González Navarro|1|2091.3126|2024-02-08
+67|Persona Natural|Patricia González Navarro|2|2091.3126|2024-03-08
+67|Persona Natural|Patricia González Navarro|3|2091.3126|2024-04-08
+67|Persona Natural|Patricia González Navarro|4|2091.3126|2024-05-08
+67|Persona Natural|Patricia González Navarro|5|2091.3126|2024-06-08
+67|Persona Natural|Patricia González Navarro|6|2091.3126|2024-07-08
+67|Persona Natural|Patricia González Navarro|7|2091.3126|2024-08-08
+67|Persona Natural|Patricia González Navarro|8|2091.3126|2024-09-08
+67|Persona Natural|Patricia González Navarro|9|2091.3126|2024-10-08
+67|Persona Natural|Patricia González Navarro|10|2091.3126|2024-11-08
+67|Persona Natural|Patricia González Navarro|11|2091.3126|2024-12-08
+125|Persona Natural|Patricia González Navarro|1|3299.6411|2022-12-26
+125|Persona Natural|Patricia González Navarro|2|3299.6411|2023-01-26
+125|Persona Natural|Patricia González Navarro|3|3299.6411|2023-02-26
+125|Persona Natural|Patricia González Navarro|4|3299.6411|2023-03-26
+125|Persona Natural|Patricia González Navarro|5|3299.6411|2023-04-26
+125|Persona Natural|Patricia González Navarro|6|3299.6411|2023-05-26
+125|Persona Natural|Patricia González Navarro|7|3299.6411|2023-06-26
+125|Persona Natural|Patricia González Navarro|8|3299.6411|2023-07-26
+125|Persona Natural|Patricia González Navarro|9|3299.6411|2023-08-26
+125|Persona Natural|Patricia González Navarro|10|3299.6411|2023-09-26
+125|Persona Natural|Patricia González Navarro|11|3299.6411|2023-10-26
+125|Persona Natural|Patricia González Navarro|12|3299.6411|2023-11-26
+125|Persona Natural|Patricia González Navarro|13|3299.6411|2023-12-26
+125|Persona Natural|Patricia González Navarro|14|3299.6411|2024-01-26
+125|Persona Natural|Patricia González Navarro|15|3299.6411|2024-02-26
+125|Persona Natural|Patricia González Navarro|16|3299.6411|2024-03-26
+125|Persona Natural|Patricia González Navarro|17|3299.6411|2024-04-26
+125|Persona Natural|Patricia González Navarro|18|3299.6411|2024-05-26
+125|Persona Natural|Patricia González Navarro|19|3299.6411|2024-06-26
+125|Persona Natural|Patricia González Navarro|20|3299.6411|2024-07-26
+125|Persona Natural|Patricia González Navarro|21|3299.6411|2024-08-26
+125|Persona Natural|Patricia González Navarro|22|3299.6411|2024-09-26
+125|Persona Natural|Patricia González Navarro|23|3299.6411|2024-10-26
+125|Persona Natural|Patricia González Navarro|24|3299.6411|2024-11-26
+125|Persona Natural|Patricia González Navarro|25|3299.6411|2024-12-26
+51|Persona Natural|Patricia Torres Mora|1|4694.5709|2024-06-21
+51|Persona Natural|Patricia Torres Mora|2|4694.5709|2024-07-21
+51|Persona Natural|Patricia Torres Mora|3|4694.5709|2024-08-21
+51|Persona Natural|Patricia Torres Mora|4|4694.5709|2024-09-21
+51|Persona Natural|Patricia Torres Mora|5|4694.5709|2024-10-21
+51|Persona Natural|Patricia Torres Mora|6|4694.5709|2024-11-21
+51|Persona Natural|Patricia Torres Mora|7|4694.5709|2024-12-21
+91|Persona Natural|Patricia Torres Mora|1|4779.7741|2023-09-02
+91|Persona Natural|Patricia Torres Mora|2|4779.7741|2023-10-02
+91|Persona Natural|Patricia Torres Mora|3|4779.7741|2023-11-02
+91|Persona Natural|Patricia Torres Mora|4|4779.7741|2023-12-02
+91|Persona Natural|Patricia Torres Mora|5|4779.7741|2024-01-02
+91|Persona Natural|Patricia Torres Mora|6|4779.7741|2024-02-02
+91|Persona Natural|Patricia Torres Mora|7|4779.7741|2024-03-02
+91|Persona Natural|Patricia Torres Mora|8|4779.7741|2024-04-02
+91|Persona Natural|Patricia Torres Mora|9|4779.7741|2024-05-02
+91|Persona Natural|Patricia Torres Mora|10|4779.7741|2024-06-02
+91|Persona Natural|Patricia Torres Mora|11|4779.7741|2024-07-02
+91|Persona Natural|Patricia Torres Mora|12|4779.7741|2024-08-02
+91|Persona Natural|Patricia Torres Mora|13|4779.7741|2024-09-02
+90|Persona Natural|Pedro Sánchez Martínez|1|448.7904|2024-01-21
+90|Persona Natural|Pedro Sánchez Martínez|2|448.7904|2024-02-21
+90|Persona Natural|Pedro Sánchez Martínez|3|448.7904|2024-03-21
+90|Persona Natural|Pedro Sánchez Martínez|4|448.7904|2024-04-21
+90|Persona Natural|Pedro Sánchez Martínez|5|448.7904|2024-05-21
+90|Persona Natural|Pedro Sánchez Martínez|6|448.7904|2024-06-21
+90|Persona Natural|Pedro Sánchez Martínez|7|448.7904|2024-07-21
+90|Persona Natural|Pedro Sánchez Martínez|8|448.7904|2024-08-21
+90|Persona Natural|Pedro Sánchez Martínez|9|448.7904|2024-09-21
+90|Persona Natural|Pedro Sánchez Martínez|10|448.7904|2024-10-21
+90|Persona Natural|Pedro Sánchez Martínez|11|448.7904|2024-11-21
+90|Persona Natural|Pedro Sánchez Martínez|12|448.7904|2024-12-21
+131|Persona Natural|Pedro Sánchez Martínez|1|3349.6216|2024-07-23
+131|Persona Natural|Pedro Sánchez Martínez|2|3349.6216|2024-08-23
+131|Persona Natural|Pedro Sánchez Martínez|3|3349.6216|2024-09-23
+131|Persona Natural|Pedro Sánchez Martínez|4|3349.6216|2024-10-23
+131|Persona Natural|Pedro Sánchez Martínez|5|3349.6216|2024-11-23
+131|Persona Natural|Pedro Sánchez Martínez|6|3349.6216|2024-12-23
+111|Persona Jurídica|Pi Internacional|1|324.9353|2024-03-23
+111|Persona Jurídica|Pi Internacional|2|324.9353|2024-04-23
+111|Persona Jurídica|Pi Internacional|3|324.9353|2024-05-23
+111|Persona Jurídica|Pi Internacional|4|324.9353|2024-06-23
+111|Persona Jurídica|Pi Internacional|5|324.9353|2024-07-23
+111|Persona Jurídica|Pi Internacional|6|324.9353|2024-08-23
+111|Persona Jurídica|Pi Internacional|7|324.9353|2024-09-23
+111|Persona Jurídica|Pi Internacional|8|324.9353|2024-10-23
+111|Persona Jurídica|Pi Internacional|9|324.9353|2024-11-23
+111|Persona Jurídica|Pi Internacional|10|324.9353|2024-12-23
+109|Persona Jurídica|Rho Exportaciones|1|355.2888|2024-01-15
+109|Persona Jurídica|Rho Exportaciones|2|355.2888|2024-02-15
+109|Persona Jurídica|Rho Exportaciones|3|355.2888|2024-03-15
+109|Persona Jurídica|Rho Exportaciones|4|355.2888|2024-04-15
+109|Persona Jurídica|Rho Exportaciones|5|355.2888|2024-05-15
+109|Persona Jurídica|Rho Exportaciones|6|355.2888|2024-06-15
+109|Persona Jurídica|Rho Exportaciones|7|355.2888|2024-07-15
+109|Persona Jurídica|Rho Exportaciones|8|355.2888|2024-08-15
+109|Persona Jurídica|Rho Exportaciones|9|355.2888|2024-09-15
+109|Persona Jurídica|Rho Exportaciones|10|355.2888|2024-10-15
+109|Persona Jurídica|Rho Exportaciones|11|355.2888|2024-11-15
+109|Persona Jurídica|Rho Exportaciones|12|355.2888|2024-12-15
+53|Persona Natural|Ricardo Jiménez Bravo|1|8007.9826|2023-07-04
+53|Persona Natural|Ricardo Jiménez Bravo|2|8007.9826|2023-08-04
+53|Persona Natural|Ricardo Jiménez Bravo|3|8007.9826|2023-09-04
+53|Persona Natural|Ricardo Jiménez Bravo|4|8007.9826|2023-10-04
+53|Persona Natural|Ricardo Jiménez Bravo|5|8007.9826|2023-11-04
+53|Persona Natural|Ricardo Jiménez Bravo|6|8007.9826|2023-12-04
+53|Persona Natural|Ricardo Jiménez Bravo|7|8007.9826|2024-01-04
+53|Persona Natural|Ricardo Jiménez Bravo|8|8007.9826|2024-02-04
+53|Persona Natural|Ricardo Jiménez Bravo|9|8007.9826|2024-03-04
+53|Persona Natural|Ricardo Jiménez Bravo|10|8007.9826|2024-04-04
+53|Persona Natural|Ricardo Jiménez Bravo|11|8007.9826|2024-05-04
+53|Persona Natural|Ricardo Jiménez Bravo|12|8007.9826|2024-06-04
+53|Persona Natural|Ricardo Jiménez Bravo|13|8007.9826|2024-07-04
+53|Persona Natural|Ricardo Jiménez Bravo|14|8007.9826|2024-08-04
+53|Persona Natural|Ricardo Jiménez Bravo|15|8007.9826|2024-09-04
+53|Persona Natural|Ricardo Jiménez Bravo|16|8007.9826|2024-10-04
+58|Persona Natural|Rosa Rodríguez Reyes|1|2617.4963|2024-01-21
+58|Persona Natural|Rosa Rodríguez Reyes|2|2617.4963|2024-02-21
+58|Persona Natural|Rosa Rodríguez Reyes|3|2617.4963|2024-03-21
+58|Persona Natural|Rosa Rodríguez Reyes|4|2617.4963|2024-04-21
+58|Persona Natural|Rosa Rodríguez Reyes|5|2617.4963|2024-05-21
+58|Persona Natural|Rosa Rodríguez Reyes|6|2617.4963|2024-06-21
+58|Persona Natural|Rosa Rodríguez Reyes|7|2617.4963|2024-07-21
+58|Persona Natural|Rosa Rodríguez Reyes|8|2617.4963|2024-08-21
+58|Persona Natural|Rosa Rodríguez Reyes|9|2617.4963|2024-09-21
+58|Persona Natural|Rosa Rodríguez Reyes|10|2617.4963|2024-10-21
+58|Persona Natural|Rosa Rodríguez Reyes|11|2617.4963|2024-11-21
+58|Persona Natural|Rosa Rodríguez Reyes|12|2617.4963|2024-12-21
+118|Persona Natural|Sara González Vásquez|1|8236.4613|2023-10-07
+118|Persona Natural|Sara González Vásquez|2|8236.4613|2023-11-07
+118|Persona Natural|Sara González Vásquez|3|8236.4613|2023-12-07
+118|Persona Natural|Sara González Vásquez|4|8236.4613|2024-01-07
+118|Persona Natural|Sara González Vásquez|5|8236.4613|2024-02-07
+118|Persona Natural|Sara González Vásquez|6|8236.4613|2024-03-07
+118|Persona Natural|Sara González Vásquez|7|8236.4613|2024-04-07
+118|Persona Natural|Sara González Vásquez|8|8236.4613|2024-05-07
+118|Persona Natural|Sara González Vásquez|9|8236.4613|2024-06-07
+118|Persona Natural|Sara González Vásquez|10|8236.4613|2024-07-07
+118|Persona Natural|Sara González Vásquez|11|8236.4613|2024-08-07
+118|Persona Natural|Sara González Vásquez|12|8236.4613|2024-09-07
+137|Persona Natural|Sara González Vásquez|1|4731.227|2023-03-16
+137|Persona Natural|Sara González Vásquez|2|4731.227|2023-04-16
+137|Persona Natural|Sara González Vásquez|3|4731.227|2023-05-16
+137|Persona Natural|Sara González Vásquez|4|4731.227|2023-06-16
+137|Persona Natural|Sara González Vásquez|5|4731.227|2023-07-16
+137|Persona Natural|Sara González Vásquez|6|4731.227|2023-08-16
+137|Persona Natural|Sara González Vásquez|7|4731.227|2023-09-16
+137|Persona Natural|Sara González Vásquez|8|4731.227|2023-10-16
+137|Persona Natural|Sara González Vásquez|9|4731.227|2023-11-16
+137|Persona Natural|Sara González Vásquez|10|4731.227|2023-12-16
+137|Persona Natural|Sara González Vásquez|11|4731.227|2024-01-16
+137|Persona Natural|Sara González Vásquez|12|4731.227|2024-02-16
+137|Persona Natural|Sara González Vásquez|13|4731.227|2024-03-16
+137|Persona Natural|Sara González Vásquez|14|4731.227|2024-04-16
+137|Persona Natural|Sara González Vásquez|15|4731.227|2024-05-16
+137|Persona Natural|Sara González Vásquez|16|4731.227|2024-06-16
+137|Persona Natural|Sara González Vásquez|17|4731.227|2024-07-16
+137|Persona Natural|Sara González Vásquez|18|4731.227|2024-08-16
+137|Persona Natural|Sara González Vásquez|19|4731.227|2024-09-16
+137|Persona Natural|Sara González Vásquez|20|4731.227|2024-10-16
+137|Persona Natural|Sara González Vásquez|21|4731.227|2024-11-16
+137|Persona Natural|Sara González Vásquez|22|4731.227|2024-12-16
+100|Persona Jurídica|Sigma Importaciones|1|5575.4168|2023-05-13
+100|Persona Jurídica|Sigma Importaciones|2|5575.4168|2023-06-13
+100|Persona Jurídica|Sigma Importaciones|3|5575.4168|2023-07-13
+100|Persona Jurídica|Sigma Importaciones|4|5575.4168|2023-08-13
+100|Persona Jurídica|Sigma Importaciones|5|5575.4168|2023-09-13
+100|Persona Jurídica|Sigma Importaciones|6|5575.4168|2023-10-13
+100|Persona Jurídica|Sigma Importaciones|7|5575.4168|2023-11-13
+100|Persona Jurídica|Sigma Importaciones|8|5575.4168|2023-12-13
+100|Persona Jurídica|Sigma Importaciones|9|5575.4168|2024-01-13
+100|Persona Jurídica|Sigma Importaciones|10|5575.4168|2024-02-13
+100|Persona Jurídica|Sigma Importaciones|11|5575.4168|2024-03-13
+100|Persona Jurídica|Sigma Importaciones|12|5575.4168|2024-04-13
+100|Persona Jurídica|Sigma Importaciones|13|5575.4168|2024-05-13
+100|Persona Jurídica|Sigma Importaciones|14|5575.4168|2024-06-13
+100|Persona Jurídica|Sigma Importaciones|15|5575.4168|2024-07-13
+100|Persona Jurídica|Sigma Importaciones|16|5575.4168|2024-08-13
+100|Persona Jurídica|Sigma Importaciones|17|5575.4168|2024-09-13
+100|Persona Jurídica|Sigma Importaciones|18|5575.4168|2024-10-13
+100|Persona Jurídica|Sigma Importaciones|19|5575.4168|2024-11-13
+100|Persona Jurídica|Sigma Importaciones|20|5575.4168|2024-12-13
+104|Persona Jurídica|Sigma Importaciones|1|3701.0072|2023-04-14
+104|Persona Jurídica|Sigma Importaciones|2|3701.0072|2023-05-14
+104|Persona Jurídica|Sigma Importaciones|3|3701.0072|2023-06-14
+104|Persona Jurídica|Sigma Importaciones|4|3701.0072|2023-07-14
+104|Persona Jurídica|Sigma Importaciones|5|3701.0072|2023-08-14
+104|Persona Jurídica|Sigma Importaciones|6|3701.0072|2023-09-14
+104|Persona Jurídica|Sigma Importaciones|7|3701.0072|2023-10-14
+104|Persona Jurídica|Sigma Importaciones|8|3701.0072|2023-11-14
+104|Persona Jurídica|Sigma Importaciones|9|3701.0072|2023-12-14
+104|Persona Jurídica|Sigma Importaciones|10|3701.0072|2024-01-14
+104|Persona Jurídica|Sigma Importaciones|11|3701.0072|2024-02-14
+104|Persona Jurídica|Sigma Importaciones|12|3701.0072|2024-03-14
+104|Persona Jurídica|Sigma Importaciones|13|3701.0072|2024-04-14
+104|Persona Jurídica|Sigma Importaciones|14|3701.0072|2024-05-14
+104|Persona Jurídica|Sigma Importaciones|15|3701.0072|2024-06-14
+104|Persona Jurídica|Sigma Importaciones|16|3701.0072|2024-07-14
+104|Persona Jurídica|Sigma Importaciones|17|3701.0072|2024-08-14
+104|Persona Jurídica|Sigma Importaciones|18|3701.0072|2024-09-14
+104|Persona Jurídica|Sigma Importaciones|19|3701.0072|2024-10-14
+104|Persona Jurídica|Sigma Importaciones|20|3701.0072|2024-11-14
+104|Persona Jurídica|Sigma Importaciones|21|3701.0072|2024-12-14
+129|Persona Jurídica|Sigma Importaciones|1|4470.901|2024-09-22
+129|Persona Jurídica|Sigma Importaciones|2|4470.901|2024-10-22
+129|Persona Jurídica|Sigma Importaciones|3|4470.901|2024-11-22
+129|Persona Jurídica|Sigma Importaciones|4|4470.901|2024-12-22
+143|Persona Jurídica|Sigma Importaciones|1|293.1035|2024-10-25
+143|Persona Jurídica|Sigma Importaciones|2|293.1035|2024-11-25
+143|Persona Jurídica|Sigma Importaciones|3|293.1035|2024-12-25
+75|Persona Natural|Susana Ramírez Lopez|1|3219.6454|2024-12-18
+107|Persona Jurídica|Theta Innovaciones|1|4989.5692|2024-05-23
+107|Persona Jurídica|Theta Innovaciones|2|4989.5692|2024-06-23
+107|Persona Jurídica|Theta Innovaciones|3|4989.5692|2024-07-23
+107|Persona Jurídica|Theta Innovaciones|4|4989.5692|2024-08-23
+107|Persona Jurídica|Theta Innovaciones|5|4989.5692|2024-09-23
+107|Persona Jurídica|Theta Innovaciones|6|4989.5692|2024-10-23
+107|Persona Jurídica|Theta Innovaciones|7|4989.5692|2024-11-23
+107|Persona Jurídica|Theta Innovaciones|8|4989.5692|2024-12-23
+123|Persona Jurídica|Theta Innovaciones|1|3935.4745|2024-03-01
+123|Persona Jurídica|Theta Innovaciones|2|3935.4745|2024-04-01
+123|Persona Jurídica|Theta Innovaciones|3|3935.4745|2024-05-01
+123|Persona Jurídica|Theta Innovaciones|4|3935.4745|2024-06-01
+123|Persona Jurídica|Theta Innovaciones|5|3935.4745|2024-07-01
+123|Persona Jurídica|Theta Innovaciones|6|3935.4745|2024-08-01
+123|Persona Jurídica|Theta Innovaciones|7|3935.4745|2024-09-01
+123|Persona Jurídica|Theta Innovaciones|8|3935.4745|2024-10-01
+123|Persona Jurídica|Theta Innovaciones|9|3935.4745|2024-11-01
+123|Persona Jurídica|Theta Innovaciones|10|3935.4745|2024-12-01
+123|Persona Jurídica|Theta Innovaciones|11|3935.4745|2025-01-01
+56|Persona Natural|Verónica Sánchez Gómez|1|1430.8854|2023-12-16
+56|Persona Natural|Verónica Sánchez Gómez|2|1430.8854|2024-01-16
+56|Persona Natural|Verónica Sánchez Gómez|3|1430.8854|2024-02-16
+56|Persona Natural|Verónica Sánchez Gómez|4|1430.8854|2024-03-16
+56|Persona Natural|Verónica Sánchez Gómez|5|1430.8854|2024-04-16
+56|Persona Natural|Verónica Sánchez Gómez|6|1430.8854|2024-05-16
+56|Persona Natural|Verónica Sánchez Gómez|7|1430.8854|2024-06-16
+56|Persona Natural|Verónica Sánchez Gómez|8|1430.8854|2024-07-16
+56|Persona Natural|Verónica Sánchez Gómez|9|1430.8854|2024-08-16
+56|Persona Natural|Verónica Sánchez Gómez|10|1430.8854|2024-09-16
+56|Persona Natural|Verónica Sánchez Gómez|11|1430.8854|2024-10-16
+56|Persona Natural|Verónica Sánchez Gómez|12|1430.8854|2024-11-16
+56|Persona Natural|Verónica Sánchez Gómez|13|1430.8854|2024-12-16
+142|Persona Natural|Verónica Sánchez Gómez|1|571.9054|2024-05-07
+142|Persona Natural|Verónica Sánchez Gómez|2|571.9054|2024-06-07
+142|Persona Natural|Verónica Sánchez Gómez|3|571.9054|2024-07-07
+142|Persona Natural|Verónica Sánchez Gómez|4|571.9054|2024-08-07
+142|Persona Natural|Verónica Sánchez Gómez|5|571.9054|2024-09-07
+142|Persona Natural|Verónica Sánchez Gómez|6|571.9054|2024-10-07
+142|Persona Natural|Verónica Sánchez Gómez|7|571.9054|2024-11-07
+142|Persona Natural|Verónica Sánchez Gómez|8|571.9054|2024-12-07
+95|Persona Natural|Víctor Martínez Díaz|1|5264.5017|2024-12-12
+134|Persona Jurídica|Xi Consultoría|1|4994.1832|2024-01-13
+134|Persona Jurídica|Xi Consultoría|2|4994.1832|2024-02-13
+134|Persona Jurídica|Xi Consultoría|3|4994.1832|2024-03-13
+134|Persona Jurídica|Xi Consultoría|4|4994.1832|2024-04-13
+134|Persona Jurídica|Xi Consultoría|5|4994.1832|2024-05-13
+134|Persona Jurídica|Xi Consultoría|6|4994.1832|2024-06-13
+134|Persona Jurídica|Xi Consultoría|7|4994.1832|2024-07-13
+134|Persona Jurídica|Xi Consultoría|8|4994.1832|2024-08-13
+134|Persona Jurídica|Xi Consultoría|9|4994.1832|2024-09-13
+134|Persona Jurídica|Xi Consultoría|10|4994.1832|2024-10-13
+134|Persona Jurídica|Xi Consultoría|11|4994.1832|2024-11-13
+134|Persona Jurídica|Xi Consultoría|12|4994.1832|2024-12-13
+132|Persona Jurídica|Zeta Consultores|1|3050.8283|2023-10-15
+132|Persona Jurídica|Zeta Consultores|2|3050.8283|2023-11-15
+132|Persona Jurídica|Zeta Consultores|3|3050.8283|2023-12-15
+132|Persona Jurídica|Zeta Consultores|4|3050.8283|2024-01-15
+132|Persona Jurídica|Zeta Consultores|5|3050.8283|2024-02-15
+132|Persona Jurídica|Zeta Consultores|6|3050.8283|2024-03-15
+132|Persona Jurídica|Zeta Consultores|7|3050.8283|2024-04-15
+132|Persona Jurídica|Zeta Consultores|8|3050.8283|2024-05-15
+132|Persona Jurídica|Zeta Consultores|9|3050.8283|2024-06-15
+132|Persona Jurídica|Zeta Consultores|10|3050.8283|2024-07-15
+132|Persona Jurídica|Zeta Consultores|11|3050.8283|2024-08-15
+132|Persona Jurídica|Zeta Consultores|12|3050.8283|2024-09-15
+132|Persona Jurídica|Zeta Consultores|13|3050.8283|2024-10-15
+132|Persona Jurídica|Zeta Consultores|14|3050.8283|2024-11-15
+132|Persona Jurídica|Zeta Consultores|15|3050.8283|2024-12-15
