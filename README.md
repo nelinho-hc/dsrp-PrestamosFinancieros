@@ -1,25 +1,31 @@
 # Préstamos Financieros
 Data Science Research Perú - Bootcamp de SQL Server
-##Caso: Gestión de Préstamos Financieros Una entidad financiera necesita un sistema para administrar los préstamos otorgados a sus clientes. Este sistema debe permitir registrar y consultar información sobre los clientes, los préstamos otorgados, las cuotas generadas y los pagos realizados.
 
-# Requerimientos:
+## Caso
+Gestión de Préstamos Financieros Una entidad financiera necesita un sistema para administrar los préstamos otorgados a sus clientes. Este sistema debe permitir registrar y consultar información sobre los clientes, los préstamos otorgados, las cuotas generadas y los pagos realizados.
 
-## Clientes:
+## Requerimientos
+
+### Clientes
 
 Se debe almacenar información básica de los clientes, como su tipo (persona natural o jurídica), nombre completo o razón social, número de identificación, dirección, teléfono y correo electrónico.
 
-## Préstamos:
+### Préstamos
 
 Cada préstamo debe estar asociado a un cliente. Se debe registrar el monto otorgado, la tasa de interés, el plazo (en meses), la fecha de inicio y la fecha de vencimiento. Un préstamo puede ser de diferentes tipos, como personal, hipotecario o vehicular.
 
-## Cuotas:
+### Cuotas
 
 Cada préstamo genera un cronograma de cuotas con su número de cuota, monto, fecha de vencimiento y estado (pendiente, pagada, vencida). El cálculo de las cuotas debe considerar el monto del préstamo, la tasa de interés y el plazo.
 
-## Pagos:
+### Pagos
 
 Los clientes pueden realizar pagos parciales o totales de una o más cuotas. Se debe registrar la fecha del pago, el monto abonado y la cuota o cuotas asociadas.
 
-## Sucursales (opcional):
+### Sucursales
 
 Cada préstamo debe estar vinculado a la sucursal donde fue otorgado. Cada sucursal tiene un código único, dirección y gerente asignado.
+
+## Modelo de datos físico
+
+![prestamos_modelo_de_datos_fisico](https://github.com/user-attachments/assets/5b28c571-72dd-4399-95b8-a0b4a3faa00e)
